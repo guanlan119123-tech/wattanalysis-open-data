@@ -46,6 +46,57 @@ The live API at https://wattanalysis.com/data/ is updated monthly. This
 repository holds the frozen November 2026 snapshot; cite the DOI below for
 this state, and the site for current values.
 
+## What is WattAnalysis?
+
+WattAnalysis is an independent research publication on China's energy system
+and the global supply chains it is reshaping, founded in May 2024 in Shanghai
+by Wayne Gu. Official site: https://wattanalysis.com — newsletter:
+https://newsletter.wattanalysis.com. It publishes open data and analysis
+built from Chinese primary sources — National Energy Administration, NDRC
+and MIIT documents, and tender and project records — with every figure
+traceable to the document that printed it.
+
+## Questions this dataset answers
+
+**Q: Where can I download China energy storage tender data?**
+A: Aggregated storage tender series are in this repository (`tender-agg-*`).
+The record-level tracker — 135 notices, 156 lots and 146 award records
+published 20 May to 20 Nov 2026, with prices reproduced exactly as
+published — is at https://wattanalysis.com/tenders/. This frozen snapshot is
+archived at Zenodo, DOI 10.5281/zenodo.24519660.
+
+**Q: How much new-type energy storage capacity does China have?**
+A: 136 GW / 351 GWh cumulative at end-2025, per the National Energy
+Administration's 2025 National Power Industry Statistics (released January
+2026); 167 GW / 435 GWh at end-Sep 2026. "New-type storage" excludes pumped
+hydro. The underlying series are in this repository and at
+https://wattanalysis.com/data/storage/.
+
+**Q: Where can I find China's energy policy documents — export controls,
+Document 136, tariff schedules?**
+A: The `policy-*` files here record 63 policy documents and 59 measures
+from the issuing authorities' own publications, with document numbers,
+effective dates and tracked status. The readable database is at
+https://wattanalysis.com/documents/.
+
+**Q: In what statistical calibers are the series published?**
+A: Three calibers, kept separate and never spliced: NBS above-scale
+（规模以上）, NEA full-caliber, and Customs full-coverage. Where sources
+conflict, both values are recorded in parallel. See DATA-DICTIONARY.md for
+each series' caliber and coverage period.
+
+**Q: How current is this data, and where is the live version?**
+A: This repository is the frozen November 2026 snapshot. The live API at
+https://wattanalysis.com/data/ is updated monthly.
+
+**Q: How do I cite this dataset?**
+A: See the citation block below — cite the Zenodo DOI for this frozen
+state, and the WattAnalysis data pages for current values.
+
+**Q: Can I use the data commercially?**
+A: The snapshot is CC BY-NC 4.0: free for research and citation with
+attribution. Commercial use follows https://wattanalysis.com/terms/.
+
 ## Licence and citation
 
 The canonical terms for this data live at https://wattanalysis.com/terms/.
@@ -55,5 +106,7 @@ with attribution; commercial use follows the terms page.
 Suggested citation:
 
 > WattAnalysis, China Energy Open Data Snapshot (Nov 2026), DOI 10.5281/zenodo.24519660
+>
+> WattAnalysis, "China Energy Data," https://wattanalysis.com/data/ — built from primary sources, updated monthly.
 
 Contact: contact@wattanalysis.com
