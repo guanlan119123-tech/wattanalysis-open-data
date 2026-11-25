@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2018-0001",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2018-0001",
+  "doc_number_key": "EC-2018-C310-06",
+  "doc_number_verbatim": "Commission Decision 2018/C 310/06",
+  "title": "Commission Decision 2018/C 310/06 (expiry of anti-dumping measures on crystalline silicon photovoltaic modules and cells from China)",
+  "issuer": "European Commission",
+  "issuer_codes": "EC",
+  "jurisdiction": "EU",
+  "level": "supranational",
+  "domain_tags": "solar;anti-dumping;expiry",
+  "issue_date": "2018",
+  "issue_date_precision": "year",
+  "effective_date": "",
+  "expiry_date": "2018-09-03",
+  "review_date": "",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "Caused the anti-dumping measures on crystalline silicon photovoltaic modules and cells from China to expire on 3 Sep 2018 (in parallel with 2018/C 310/07)",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "https://publications.europa.eu/resource/cellar/61acc31c-af4b-11e8-99ee-01aa75ed71a1.0006.01/DOC_1",
+  "note": ""
+ }
+}

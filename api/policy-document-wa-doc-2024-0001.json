@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2024-0001",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2024-0001",
+  "doc_number_key": "FR-89-76581",
+  "doc_number_verbatim": "89 FR 76581",
+  "title": "USTR modification notice: Section 301 investigation — actions on certain Chinese products (four-year review modifications)",
+  "issuer": "Office of the United States Trade Representative",
+  "issuer_codes": "USTR",
+  "jurisdiction": "US",
+  "level": "national",
+  "domain_tags": "enduse;solar;storage;materials;section-301",
+  "issue_date": "2024-09-18",
+  "issue_date_precision": "day",
+  "effective_date": "2024-09-27",
+  "expiry_date": "",
+  "review_date": "2027-11-20",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "Effective in three tranches: 2024-09-27 / 2025-01-01 / 2026-01-01 (see status_history)",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "https://www.govinfo.gov/content/pkg/FR-2024-09-19/pdf/2024-21217.pdf",
+  "note": ""
+ }
+}

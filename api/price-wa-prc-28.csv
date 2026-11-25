@@ -1,0 +1,6 @@
+period_date,period_type,node,spec,unit,n_sources,composite_median,spread_max_min,spread_pct,caliber_note
+2026-11-16,D,Battery-grade lithium carbonate,"Li2CO3 >=99.5%, spot",CNY/t,2,89600,100,0.11,Mysteel value is the late-session range midpoint (back-derived from the next day's published change; derived value); SMM value is the daily average price
+2026-11-17,D,Battery-grade lithium carbonate,"Li2CO3 >=99.5%, spot",CNY/t,2,89725,1350,1.5,Dispersion mainly from timing caliber: SMM daily average fell 500 on the day while Mysteel late session rose 750 on after-hours futures strength (daily average vs late-session close)
+2026-11-18,D,Battery-grade lithium carbonate,"Li2CO3 >=99.5%, spot",CNY/t,2,91700,200,0.22,"SMM average is consistent with its range midpoint (89,800-93,800 -> 91,800)"
+2026-11-19,D,Battery-grade lithium carbonate,"Li2CO3 >=99.5%, spot",CNY/t,3,91300,850,0.93,"SMM also has a parallel conflicting value of 91,200 via a Sina daily report (-620 basis); per discipline it is not adopted and not adjudicated, registered only in the internal input layer"
+2026-11-20,D,Battery-grade lithium carbonate,"Li2CO3 >=99.5%, spot",CNY/t,3,91450,50,0.05,"Mysteel value is the early-session range midpoint (late session not yet published at collection time; substitution flagged); the three sources nearly coincide, consistent with the QC87-C survey cross-check"

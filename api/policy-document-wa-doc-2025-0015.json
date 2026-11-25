@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2025-0015",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2025-0015",
+  "doc_number_key": "EC-2025-2083",
+  "doc_number_verbatim": "Regulation (EU) 2025/2083",
+  "title": "Regulation (EU) 2025/2083 amending Regulation (EU) 2023/956 (CBAM simplification)",
+  "issuer": "European Parliament and Council / European Commission",
+  "issuer_codes": "EC",
+  "jurisdiction": "EU",
+  "level": "supranational",
+  "domain_tags": "cbam;amendment",
+  "issue_date": "2025",
+  "issue_date_precision": "year",
+  "effective_date": "",
+  "expiry_date": "",
+  "review_date": "2027-11-20",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "Amends WA-DOC-2023-0003",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "https://publications.europa.eu/resource/cellar/9e9e9b38-aaf1-11f0-89c6-01aa75ed71a1.0006.01/DOC_1",
+  "note": ""
+ }
+}

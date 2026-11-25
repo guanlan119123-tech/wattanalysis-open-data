@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2026-0103",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "B",
+ "record": {
+  "doc_id": "WA-DOC-2026-0103",
+  "doc_number_key": "CTC-2026-6",
+  "doc_number_verbatim": "Customs Tariff Commission Announcement No. 6 (2026)",
+  "title": "Customs Tariff Commission Announcement No. 6 (2026) on adjusting additional tariff measures on imported goods originating in the United States",
+  "issuer": "Customs Tariff Commission of the State Council (CTC)",
+  "issuer_codes": "CTC",
+  "jurisdiction": "China",
+  "level": "national",
+  "domain_tags": "tariff;us-directed;suspension-continuation",
+  "issue_date": "2026-11-09",
+  "issue_date_precision": "day",
+  "effective_date": "2026-11-10",
+  "expiry_date": "2027-01-10",
+  "review_date": "",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "WA-DOC-2025-0110",
+  "superseded_by": "",
+  "relation_note": "Continues No. 10's one-year suspension: from 13:01 on 10 Nov 2026, for two months, the 24 percentage points remain suspended and 10% is retained",
+  "source_tier": "T1",
+  "credibility": "B",
+  "source_url": "https://gss.mof.gov.cn/gzdt/zhengcefabu/202611/t20261109_4004260.htm",
+  "note": "The MOF original-text URL was located via a Tsinghua CIFER citation, and official-media republications (Xinhua and others) agree; the MOF original was not opened directly this round, hence grade B; the 'two months' expiry is registered as 10 Jan 2027, with the exact wording to be verified against the original text (intake open item S-03)."
+ }
+}

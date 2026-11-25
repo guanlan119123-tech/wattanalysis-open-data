@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2025-0100",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2025-0100",
+  "doc_number_key": "NEA-2025-7",
+  "doc_number_verbatim": "Guonengfa Xinneng Gui [2025] No. 7",
+  "title": "Measures for the Development and Construction Management of Distributed Photovoltaic Generation",
+  "issuer": "National Energy Administration (NEA)",
+  "issuer_codes": "NEA",
+  "jurisdiction": "China",
+  "level": "national",
+  "domain_tags": "solar;grid;distributed-generation",
+  "issue_date": "2025-01-17",
+  "issue_date_precision": "day",
+  "effective_date": "2025-01-17",
+  "expiry_date": "2030-01-17",
+  "review_date": "",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "Revises and simultaneously repeals the Interim Measures for the Management of Distributed Photovoltaic Generation Projects (Guoneng Xinneng [2013] No. 433; not given a row); projects filed before promulgation and connected and commissioned before 1 May 2025 transition under the original policy; effective from the date of promulgation, valid for five years",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "https://www.nea.gov.cn/20250123/112c5b199c5f45dd8e7ac93c9f5e4eaf/c.html",
+  "note": "NEA original text (opened and checked verbatim this round; signed date 17 Jan 2025); the NEA government-information-disclosure catalogue gives an issue date of 26 Jan 2025 — for the discrepancy see intake open item S-04."
+ }
+}

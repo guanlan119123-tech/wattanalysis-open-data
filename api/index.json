@@ -1,0 +1,969 @@
+{
+ "site": "WattAnalysis",
+ "description": "Machine-readable layer for the WattAnalysis Data section: every published monthly series as JSON and CSV, plus the bulk archive files. All figures are verified against the primary source and published as printed; the NBS above-scale, NEA full-caliber and Customs full-coverage calibers are kept separate and never mixed. Empty cells are null — nothing is derived or filled.",
+ "generated": "2026-11-22",
+ "series": [
+  {
+   "key": "总盘-08",
+   "title": "Solar generation",
+   "segment": "solar",
+   "unit": "TWh",
+   "caliber": "National Bureau of Statistics — above-designated-size industry",
+   "period_start": "2020-02",
+   "period_end": "2026-09",
+   "observations": 74,
+   "html": "https://wattanalysis.com/data/solar/#总盘-08",
+   "json": "https://wattanalysis.com/data/api/总盘-08.json",
+   "csv": "https://wattanalysis.com/data/api/总盘-08.csv"
+  },
+  {
+   "key": "nea-cap-solar",
+   "title": "Installed capacity · Solar (NEA)",
+   "segment": "solar",
+   "unit": "GW",
+   "caliber": "National Energy Administration — full-caliber statistics",
+   "period_start": "2020-03",
+   "period_end": "2026-09",
+   "observations": 67,
+   "html": "https://wattanalysis.com/data/solar/#nea-cap-solar",
+   "json": "https://wattanalysis.com/data/api/nea-cap-solar.json",
+   "csv": "https://wattanalysis.com/data/api/nea-cap-solar.csv"
+  },
+  {
+   "key": "gen-solar",
+   "title": "Generation · Solar (NEA briefings)",
+   "segment": "solar",
+   "unit": "TWh",
+   "caliber": "National Energy Administration — full-caliber statistics",
+   "period_start": "2020-03",
+   "period_end": "2026-09",
+   "observations": 26,
+   "html": "https://wattanalysis.com/data/solar/#gen-solar",
+   "json": "https://wattanalysis.com/data/api/gen-solar.json",
+   "csv": "https://wattanalysis.com/data/api/gen-solar.csv"
+  },
+  {
+   "key": "exp-cells",
+   "title": "Solar cell exports",
+   "segment": "solar",
+   "unit": "m units",
+   "caliber": "General Administration of Customs — full-coverage trade statistics",
+   "period_start": "2021-08",
+   "period_end": "2026-08",
+   "observations": 20,
+   "html": "https://wattanalysis.com/data/solar/#exp-cells",
+   "json": "https://wattanalysis.com/data/api/exp-cells.json",
+   "csv": "https://wattanalysis.com/data/api/exp-cells.csv"
+  },
+  {
+   "key": "exp-cells-val",
+   "title": "Solar cell exports · Value",
+   "segment": "solar",
+   "unit": "USD m",
+   "caliber": "General Administration of Customs — full-coverage trade statistics",
+   "period_start": "2021-08",
+   "period_end": "2026-08",
+   "observations": 20,
+   "html": "https://wattanalysis.com/data/solar/#exp-cells-val",
+   "json": "https://wattanalysis.com/data/api/exp-cells-val.json",
+   "csv": "https://wattanalysis.com/data/api/exp-cells-val.csv"
+  },
+  {
+   "key": "总盘-09",
+   "title": "Wind generation",
+   "segment": "wind",
+   "unit": "TWh",
+   "caliber": "National Bureau of Statistics — above-designated-size industry",
+   "period_start": "2020-02",
+   "period_end": "2026-09",
+   "observations": 74,
+   "html": "https://wattanalysis.com/data/wind/#总盘-09",
+   "json": "https://wattanalysis.com/data/api/总盘-09.json",
+   "csv": "https://wattanalysis.com/data/api/总盘-09.csv"
+  },
+  {
+   "key": "nea-cap-wind",
+   "title": "Installed capacity · Wind (NEA)",
+   "segment": "wind",
+   "unit": "GW",
+   "caliber": "National Energy Administration — full-caliber statistics",
+   "period_start": "2020-02",
+   "period_end": "2026-09",
+   "observations": 73,
+   "html": "https://wattanalysis.com/data/wind/#nea-cap-wind",
+   "json": "https://wattanalysis.com/data/api/nea-cap-wind.json",
+   "csv": "https://wattanalysis.com/data/api/nea-cap-wind.csv"
+  },
+  {
+   "key": "gen-wind",
+   "title": "Generation · Wind (NEA briefings)",
+   "segment": "wind",
+   "unit": "TWh",
+   "caliber": "National Energy Administration — full-caliber statistics",
+   "period_start": "2020-03",
+   "period_end": "2026-09",
+   "observations": 26,
+   "html": "https://wattanalysis.com/data/wind/#gen-wind",
+   "json": "https://wattanalysis.com/data/api/gen-wind.json",
+   "csv": "https://wattanalysis.com/data/api/gen-wind.csv"
+  },
+  {
+   "key": "总盘-10",
+   "title": "Hydro generation",
+   "segment": "hydro",
+   "unit": "TWh",
+   "caliber": "National Bureau of Statistics — above-designated-size industry",
+   "period_start": "2020-02",
+   "period_end": "2026-09",
+   "observations": 74,
+   "html": "https://wattanalysis.com/data/hydro/#总盘-10",
+   "json": "https://wattanalysis.com/data/api/总盘-10.json",
+   "csv": "https://wattanalysis.com/data/api/总盘-10.csv"
+  },
+  {
+   "key": "nea-cap-hydro",
+   "title": "Installed capacity · Hydro (NEA)",
+   "segment": "hydro",
+   "unit": "GW",
+   "caliber": "National Energy Administration — full-caliber statistics",
+   "period_start": "2020-02",
+   "period_end": "2026-09",
+   "observations": 73,
+   "html": "https://wattanalysis.com/data/hydro/#nea-cap-hydro",
+   "json": "https://wattanalysis.com/data/api/nea-cap-hydro.json",
+   "csv": "https://wattanalysis.com/data/api/nea-cap-hydro.csv"
+  },
+  {
+   "key": "gen-hydro",
+   "title": "Generation · Hydro (NEA briefings)",
+   "segment": "hydro",
+   "unit": "TWh",
+   "caliber": "National Energy Administration — full-caliber statistics",
+   "period_start": "2020-03",
+   "period_end": "2026-09",
+   "observations": 23,
+   "html": "https://wattanalysis.com/data/hydro/#gen-hydro",
+   "json": "https://wattanalysis.com/data/api/gen-hydro.json",
+   "csv": "https://wattanalysis.com/data/api/gen-hydro.csv"
+  },
+  {
+   "key": "总盘-12",
+   "title": "Nuclear generation",
+   "segment": "nuclear",
+   "unit": "TWh",
+   "caliber": "National Bureau of Statistics — above-designated-size industry",
+   "period_start": "2020-02",
+   "period_end": "2026-09",
+   "observations": 74,
+   "html": "https://wattanalysis.com/data/nuclear/#总盘-12",
+   "json": "https://wattanalysis.com/data/api/总盘-12.json",
+   "csv": "https://wattanalysis.com/data/api/总盘-12.csv"
+  },
+  {
+   "key": "nea-cap-nuclear",
+   "title": "Installed capacity · Nuclear (NEA)",
+   "segment": "nuclear",
+   "unit": "GW",
+   "caliber": "National Energy Administration — full-caliber statistics",
+   "period_start": "2020-02",
+   "period_end": "2026-09",
+   "observations": 73,
+   "html": "https://wattanalysis.com/data/nuclear/#nea-cap-nuclear",
+   "json": "https://wattanalysis.com/data/api/nea-cap-nuclear.json",
+   "csv": "https://wattanalysis.com/data/api/nea-cap-nuclear.csv"
+  },
+  {
+   "key": "总盘-11",
+   "title": "Thermal generation",
+   "segment": "thermal",
+   "unit": "TWh",
+   "caliber": "National Bureau of Statistics — above-designated-size industry",
+   "period_start": "2020-02",
+   "period_end": "2026-09",
+   "observations": 74,
+   "html": "https://wattanalysis.com/data/thermal/#总盘-11",
+   "json": "https://wattanalysis.com/data/api/总盘-11.json",
+   "csv": "https://wattanalysis.com/data/api/总盘-11.csv"
+  },
+  {
+   "key": "nea-cap-thermal",
+   "title": "Installed capacity · Thermal (NEA)",
+   "segment": "thermal",
+   "unit": "GW",
+   "caliber": "National Energy Administration — full-caliber statistics",
+   "period_start": "2020-02",
+   "period_end": "2026-09",
+   "observations": 73,
+   "html": "https://wattanalysis.com/data/thermal/#nea-cap-thermal",
+   "json": "https://wattanalysis.com/data/api/nea-cap-thermal.json",
+   "csv": "https://wattanalysis.com/data/api/nea-cap-thermal.csv"
+  },
+  {
+   "key": "nea-hours",
+   "title": "Utilisation hours · All plant (NEA)",
+   "segment": "thermal",
+   "unit": "hours",
+   "caliber": "National Energy Administration — full-caliber statistics",
+   "period_start": "2020-02",
+   "period_end": "2026-09",
+   "observations": 73,
+   "html": "https://wattanalysis.com/data/thermal/#nea-hours",
+   "json": "https://wattanalysis.com/data/api/nea-hours.json",
+   "csv": "https://wattanalysis.com/data/api/nea-hours.csv"
+  },
+  {
+   "key": "煤炭-01",
+   "title": "Raw coal output",
+   "segment": "coal",
+   "unit": "Mt",
+   "caliber": "National Bureau of Statistics — above-designated-size industry",
+   "period_start": "2020-02",
+   "period_end": "2026-09",
+   "observations": 74,
+   "html": "https://wattanalysis.com/data/coal/#煤炭-01",
+   "json": "https://wattanalysis.com/data/api/煤炭-01.json",
+   "csv": "https://wattanalysis.com/data/api/煤炭-01.csv"
+  },
+  {
+   "key": "imp-coal",
+   "title": "Coal & lignite imports",
+   "segment": "coal",
+   "unit": "Mt",
+   "caliber": "General Administration of Customs — full-coverage trade statistics",
+   "period_start": "2020-02",
+   "period_end": "2026-09",
+   "observations": 74,
+   "html": "https://wattanalysis.com/data/coal/#imp-coal",
+   "json": "https://wattanalysis.com/data/api/imp-coal.json",
+   "csv": "https://wattanalysis.com/data/api/imp-coal.csv"
+  },
+  {
+   "key": "imp-coal-val",
+   "title": "Coal & lignite imports · Value",
+   "segment": "coal",
+   "unit": "USD m",
+   "caliber": "General Administration of Customs — full-coverage trade statistics",
+   "period_start": "2022-03",
+   "period_end": "2026-07",
+   "observations": 22,
+   "html": "https://wattanalysis.com/data/coal/#imp-coal-val",
+   "json": "https://wattanalysis.com/data/api/imp-coal-val.json",
+   "csv": "https://wattanalysis.com/data/api/imp-coal-val.csv"
+  },
+  {
+   "key": "exp-coke",
+   "title": "Coke exports",
+   "segment": "coal",
+   "unit": "Mt",
+   "caliber": "General Administration of Customs — full-coverage trade statistics",
+   "period_start": "2021-08",
+   "period_end": "2026-08",
+   "observations": 21,
+   "html": "https://wattanalysis.com/data/coal/#exp-coke",
+   "json": "https://wattanalysis.com/data/api/exp-coke.json",
+   "csv": "https://wattanalysis.com/data/api/exp-coke.csv"
+  },
+  {
+   "key": "exp-coke-val",
+   "title": "Coke exports · Value",
+   "segment": "coal",
+   "unit": "USD m",
+   "caliber": "General Administration of Customs — full-coverage trade statistics",
+   "period_start": "2021-09",
+   "period_end": "2026-08",
+   "observations": 16,
+   "html": "https://wattanalysis.com/data/coal/#exp-coke-val",
+   "json": "https://wattanalysis.com/data/api/exp-coke-val.json",
+   "csv": "https://wattanalysis.com/data/api/exp-coke-val.csv"
+  },
+  {
+   "key": "油气-01",
+   "title": "Crude oil output",
+   "segment": "oil-gas",
+   "unit": "Mt",
+   "caliber": "National Bureau of Statistics — above-designated-size industry",
+   "period_start": "2020-02",
+   "period_end": "2026-09",
+   "observations": 74,
+   "html": "https://wattanalysis.com/data/oil-gas/#油气-01",
+   "json": "https://wattanalysis.com/data/api/油气-01.json",
+   "csv": "https://wattanalysis.com/data/api/油气-01.csv"
+  },
+  {
+   "key": "油气-02",
+   "title": "Crude oil throughput",
+   "segment": "oil-gas",
+   "unit": "Mt",
+   "caliber": "National Bureau of Statistics — above-designated-size industry",
+   "period_start": "2020-02",
+   "period_end": "2026-09",
+   "observations": 74,
+   "html": "https://wattanalysis.com/data/oil-gas/#油气-02",
+   "json": "https://wattanalysis.com/data/api/油气-02.json",
+   "csv": "https://wattanalysis.com/data/api/油气-02.csv"
+  },
+  {
+   "key": "油气-11",
+   "title": "Natural gas output",
+   "segment": "oil-gas",
+   "unit": "bcm",
+   "caliber": "National Bureau of Statistics — above-designated-size industry",
+   "period_start": "2020-02",
+   "period_end": "2026-09",
+   "observations": 74,
+   "html": "https://wattanalysis.com/data/oil-gas/#油气-11",
+   "json": "https://wattanalysis.com/data/api/油气-11.json",
+   "csv": "https://wattanalysis.com/data/api/油气-11.csv"
+  },
+  {
+   "key": "imp-crude",
+   "title": "Crude oil imports",
+   "segment": "oil-gas",
+   "unit": "Mt",
+   "caliber": "General Administration of Customs — full-coverage trade statistics",
+   "period_start": "2020-02",
+   "period_end": "2026-09",
+   "observations": 74,
+   "html": "https://wattanalysis.com/data/oil-gas/#imp-crude",
+   "json": "https://wattanalysis.com/data/api/imp-crude.json",
+   "csv": "https://wattanalysis.com/data/api/imp-crude.csv"
+  },
+  {
+   "key": "imp-crude-val",
+   "title": "Crude oil imports · Value",
+   "segment": "oil-gas",
+   "unit": "USD m",
+   "caliber": "General Administration of Customs — full-coverage trade statistics",
+   "period_start": "2022-03",
+   "period_end": "2026-07",
+   "observations": 22,
+   "html": "https://wattanalysis.com/data/oil-gas/#imp-crude-val",
+   "json": "https://wattanalysis.com/data/api/imp-crude-val.json",
+   "csv": "https://wattanalysis.com/data/api/imp-crude-val.csv"
+  },
+  {
+   "key": "imp-gas",
+   "title": "Natural gas imports",
+   "segment": "oil-gas",
+   "unit": "Mt",
+   "caliber": "General Administration of Customs — full-coverage trade statistics",
+   "period_start": "2020-02",
+   "period_end": "2026-09",
+   "observations": 74,
+   "html": "https://wattanalysis.com/data/oil-gas/#imp-gas",
+   "json": "https://wattanalysis.com/data/api/imp-gas.json",
+   "csv": "https://wattanalysis.com/data/api/imp-gas.csv"
+  },
+  {
+   "key": "imp-gas-val",
+   "title": "Natural gas imports · Value",
+   "segment": "oil-gas",
+   "unit": "USD m",
+   "caliber": "General Administration of Customs — full-coverage trade statistics",
+   "period_start": "2022-03",
+   "period_end": "2026-07",
+   "observations": 22,
+   "html": "https://wattanalysis.com/data/oil-gas/#imp-gas-val",
+   "json": "https://wattanalysis.com/data/api/imp-gas-val.json",
+   "csv": "https://wattanalysis.com/data/api/imp-gas-val.csv"
+  },
+  {
+   "key": "imp-lng",
+   "title": "LNG imports",
+   "segment": "oil-gas",
+   "unit": "Mt",
+   "caliber": "General Administration of Customs — full-coverage trade statistics",
+   "period_start": "2020-09",
+   "period_end": "2026-02",
+   "observations": 59,
+   "html": "https://wattanalysis.com/data/oil-gas/#imp-lng",
+   "json": "https://wattanalysis.com/data/api/imp-lng.json",
+   "csv": "https://wattanalysis.com/data/api/imp-lng.csv"
+  },
+  {
+   "key": "imp-lng-val",
+   "title": "LNG imports · Value",
+   "segment": "oil-gas",
+   "unit": "USD m",
+   "caliber": "General Administration of Customs — full-coverage trade statistics",
+   "period_start": "2020-09",
+   "period_end": "2025-12",
+   "observations": 41,
+   "html": "https://wattanalysis.com/data/oil-gas/#imp-lng-val",
+   "json": "https://wattanalysis.com/data/api/imp-lng-val.json",
+   "csv": "https://wattanalysis.com/data/api/imp-lng-val.csv"
+  },
+  {
+   "key": "nea-inv-grid",
+   "title": "Investment · Grid (NEA)",
+   "segment": "grid",
+   "unit": "CNY 100m",
+   "caliber": "National Energy Administration — full-caliber statistics",
+   "period_start": "2020-02",
+   "period_end": "2025-11",
+   "observations": 64,
+   "html": "https://wattanalysis.com/data/grid/#nea-inv-grid",
+   "json": "https://wattanalysis.com/data/api/nea-inv-grid.json",
+   "csv": "https://wattanalysis.com/data/api/nea-inv-grid.csv"
+  },
+  {
+   "key": "nea-inv-power",
+   "title": "Investment · Power supply (NEA)",
+   "segment": "grid",
+   "unit": "CNY 100m",
+   "caliber": "National Energy Administration — full-caliber statistics",
+   "period_start": "2020-02",
+   "period_end": "2025-11",
+   "observations": 64,
+   "html": "https://wattanalysis.com/data/grid/#nea-inv-power",
+   "json": "https://wattanalysis.com/data/api/nea-inv-power.json",
+   "csv": "https://wattanalysis.com/data/api/nea-inv-power.csv"
+  },
+  {
+   "key": "总盘-07",
+   "title": "Total generation",
+   "segment": "end-use",
+   "unit": "TWh",
+   "caliber": "National Bureau of Statistics — above-designated-size industry",
+   "period_start": "2020-02",
+   "period_end": "2026-09",
+   "observations": 74,
+   "html": "https://wattanalysis.com/data/end-use/#总盘-07",
+   "json": "https://wattanalysis.com/data/api/总盘-07.json",
+   "csv": "https://wattanalysis.com/data/api/总盘-07.csv"
+  },
+  {
+   "key": "nea-cap-total",
+   "title": "Installed capacity · Total (NEA)",
+   "segment": "end-use",
+   "unit": "GW",
+   "caliber": "National Energy Administration — full-caliber statistics",
+   "period_start": "2020-02",
+   "period_end": "2026-09",
+   "observations": 73,
+   "html": "https://wattanalysis.com/data/end-use/#nea-cap-total",
+   "json": "https://wattanalysis.com/data/api/nea-cap-total.json",
+   "csv": "https://wattanalysis.com/data/api/nea-cap-total.csv"
+  },
+  {
+   "key": "nea-use-total",
+   "title": "Electricity use · Total (NEA)",
+   "segment": "end-use",
+   "unit": "TWh",
+   "caliber": "National Energy Administration — full-caliber statistics",
+   "period_start": "2020-02",
+   "period_end": "2026-09",
+   "observations": 74,
+   "html": "https://wattanalysis.com/data/end-use/#nea-use-total",
+   "json": "https://wattanalysis.com/data/api/nea-use-total.json",
+   "csv": "https://wattanalysis.com/data/api/nea-use-total.csv"
+  },
+  {
+   "key": "nea-use-pri",
+   "title": "Electricity use · Primary industry (NEA)",
+   "segment": "end-use",
+   "unit": "TWh",
+   "caliber": "National Energy Administration — full-caliber statistics",
+   "period_start": "2020-02",
+   "period_end": "2026-09",
+   "observations": 74,
+   "html": "https://wattanalysis.com/data/end-use/#nea-use-pri",
+   "json": "https://wattanalysis.com/data/api/nea-use-pri.json",
+   "csv": "https://wattanalysis.com/data/api/nea-use-pri.csv"
+  },
+  {
+   "key": "nea-use-sec",
+   "title": "Electricity use · Secondary industry (NEA)",
+   "segment": "end-use",
+   "unit": "TWh",
+   "caliber": "National Energy Administration — full-caliber statistics",
+   "period_start": "2020-02",
+   "period_end": "2026-09",
+   "observations": 74,
+   "html": "https://wattanalysis.com/data/end-use/#nea-use-sec",
+   "json": "https://wattanalysis.com/data/api/nea-use-sec.json",
+   "csv": "https://wattanalysis.com/data/api/nea-use-sec.csv"
+  },
+  {
+   "key": "nea-use-ter",
+   "title": "Electricity use · Tertiary industry (NEA)",
+   "segment": "end-use",
+   "unit": "TWh",
+   "caliber": "National Energy Administration — full-caliber statistics",
+   "period_start": "2020-02",
+   "period_end": "2026-09",
+   "observations": 74,
+   "html": "https://wattanalysis.com/data/end-use/#nea-use-ter",
+   "json": "https://wattanalysis.com/data/api/nea-use-ter.json",
+   "csv": "https://wattanalysis.com/data/api/nea-use-ter.csv"
+  },
+  {
+   "key": "nea-use-res",
+   "title": "Electricity use · Households (NEA)",
+   "segment": "end-use",
+   "unit": "TWh",
+   "caliber": "National Energy Administration — full-caliber statistics",
+   "period_start": "2020-02",
+   "period_end": "2026-09",
+   "observations": 74,
+   "html": "https://wattanalysis.com/data/end-use/#nea-use-res",
+   "json": "https://wattanalysis.com/data/api/nea-use-res.json",
+   "csv": "https://wattanalysis.com/data/api/nea-use-res.csv"
+  }
+ ],
+ "datasets": [
+  {
+   "name": "monthly-series.csv",
+   "url": "https://wattanalysis.com/data/monthly-series.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "All 39 monthly series in one file — the same figures as the per-series API files."
+  },
+  {
+   "name": "wa-customs-master.csv",
+   "url": "https://wattanalysis.com/data/wa-customs-master.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "Full Customs archive — every collected import/export row, all table vintages kept in parallel (1,160 rows)."
+  },
+  {
+   "name": "wa-cec-power.csv",
+   "url": "https://wattanalysis.com/data/wa-cec-power.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "China Electricity Council record — power statistics, published separately from the NEA record (204 rows)."
+  },
+  {
+   "name": "wa-cec-consumption.csv",
+   "url": "https://wattanalysis.com/data/wa-cec-consumption.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "China Electricity Council record — electricity consumption by sector (243 rows)."
+  },
+  {
+   "name": "wa-generation-briefings.csv",
+   "url": "https://wattanalysis.com/data/wa-generation-briefings.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "Certified NEA briefing rows — generation by type from press-conference transcripts and annual releases (84 rows)."
+  },
+  {
+   "name": "wa-solar.csv",
+   "url": "https://wattanalysis.com/data/wa-solar.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "Solar manufacturing & industry — family archive."
+  },
+  {
+   "name": "wa-wind.csv",
+   "url": "https://wattanalysis.com/data/wa-wind.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "Wind manufacturing & installations — family archive."
+  },
+  {
+   "name": "wa-nuclear.csv",
+   "url": "https://wattanalysis.com/data/wa-nuclear.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "Nuclear operations — China Nuclear Energy Association quarterly record."
+  },
+  {
+   "name": "wa-storage.csv",
+   "url": "https://wattanalysis.com/data/wa-storage.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "New-type storage panorama — capacity by technology route, duration and region."
+  },
+  {
+   "name": "wa-storage-tenders.csv",
+   "url": "https://wattanalysis.com/data/wa-storage-tenders.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "Storage tender record — monthly tender volumes, award volumes and winning prices at the labelled compilation tier (129 rows)."
+  },
+  {
+   "name": "wa-hydrogen.csv",
+   "url": "https://wattanalysis.com/data/wa-hydrogen.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "Hydrogen industry — production capacity by route, refuelling infrastructure, fuel-cell vehicles."
+  },
+  {
+   "name": "wa-coal-price-tier.csv",
+   "url": "https://wattanalysis.com/data/wa-coal-price-tier.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "Bohai-Rim thermal coal price index (BSPI) closes — labelled republication tier."
+  },
+  {
+   "name": "wa-rail-coal-tier.csv",
+   "url": "https://wattanalysis.com/data/wa-rail-coal-tier.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "National-railway coal volumes — labelled republication tier, cumulative as printed."
+  },
+  {
+   "name": "wa-carbon-price-tier.csv",
+   "url": "https://wattanalysis.com/data/wa-carbon-price-tier.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "National carbon market (CEA) prices — labelled republication tier."
+  },
+  {
+   "name": "wa-hs-coal-query.csv",
+   "url": "https://wattanalysis.com/data/wa-hs-coal-query.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "Coal imports by type (HS 6-digit) — Customs online-query caliber, renminbi amounts as queried (77 rows)."
+  },
+  {
+   "name": "wa-nea-industry-2026.csv",
+   "url": "https://wattanalysis.com/data/wa-nea-industry-2026.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "NEA record — industry electricity use 2026, monthly (NEA-30) and cumulative (NEA-31) absolutes as printed."
+  },
+  {
+   "name": "wa-provincial.csv",
+   "url": "https://wattanalysis.com/data/wa-provincial.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "Provincial record — installed capacity, generation and electricity consumption by province from provincial statistical bulletins and statistics-bureau tables, kept separate from the NEA and CEC national records (355 rows)."
+  },
+  {
+   "name": "wa-provincial-monthly.csv",
+   "url": "https://wattanalysis.com/data/wa-provincial-monthly.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "Provincial monthly record — generation and electricity consumption by province from provincial monthly carriers (statistics-bureau monthly tables and reports, NEA regional-office bulletins), monthly and cumulative as printed, kept separate from the annual provincial record (732 rows)."
+  },
+  {
+   "name": "wa-cea-grid.csv",
+   "url": "https://wattanalysis.com/data/wa-cea-grid.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "National carbon market (CEA) monthly grid — monthly average and month-end closing prices, labelled republication tier (47 rows; the grid is still being completed)."
+  },
+  {
+   "name": "wa-green-certificates.csv",
+   "url": "https://wattanalysis.com/data/wa-green-certificates.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "Green certificate record — monthly issuance, trading volumes and average prices from the NEA monthly green-certificate releases, September 2024 onward (140 rows)."
+  },
+  {
+   "name": "wa-renewable-monitoring.csv",
+   "url": "https://wattanalysis.com/data/wa-renewable-monitoring.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "Renewable generation, monitoring-report caliber — hydro, wind, solar, biomass and total renewable generation as printed in the NEA annual National Renewable Energy Power Development Monitoring and Evaluation Reports, data years 2015 and 2017–2024 (44 rows). A separate caliber, never spliced with the NEA annual statistical tables or the CEC record. The 2016 edition prints no generation by type (structural absence); no 2025 edition had been found published as of collection (unverified)."
+  },
+  {
+   "name": "wa-comparators-us.csv",
+   "url": "https://wattanalysis.com/data/wa-comparators-us.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "Comparator record (US) — EIA generation, small-scale solar, retail sales, capacity and operating batteries, in EIA calibers, never merged with the China series (610 rows)."
+  },
+  {
+   "name": "wa-comparators-eu.csv",
+   "url": "https://wattanalysis.com/data/wa-comparators-eu.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "Comparator record (EU) — Eurostat net generation by fuel for EU-27; components must not be summed to replace the total row (674 rows)."
+  },
+  {
+   "name": "wa-comparators-in.csv",
+   "url": "https://wattanalysis.com/data/wa-comparators-in.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "Comparator record (India) — CEA generation, renewables breakdown and installed capacity; the RES capacity caliber changes at the February 2025 issue and the two calibers stand as separate lines (660 rows)."
+  },
+  {
+   "name": "wa-nea-briefing-points.csv",
+   "url": "https://wattanalysis.com/data/wa-nea-briefing-points.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "NEA briefing data points — storage and hydrogen figures printed at NEA briefings and in its reports, collected as points, never interpolated (23 rows)."
+  },
+  {
+   "name": "wa-customs-new-three-usd.csv",
+   "url": "https://wattanalysis.com/data/wa-customs-new-three-usd.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "Customs record — the \"new three\" exports in US dollars as printed: lithium-ion accumulators, electric passenger cars (total) and battery-electric cars as a printed subset; quantity and value, monthly and cumulative (894 rows)."
+  },
+  {
+   "name": "wa-customs-new-three-rmb.csv",
+   "url": "https://wattanalysis.com/data/wa-customs-new-three-rmb.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "Customs record — the \"new three\" exports in renminbi as printed; a parallel caliber to the US-dollar file, never merged with it (924 rows)."
+  },
+  {
+   "name": "wa-customs-battery-by-country-usd.csv",
+   "url": "https://wattanalysis.com/data/wa-customs-battery-by-country-usd.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "Customs by destination, online-query caliber — lithium-ion accumulator exports (HS 85076000) by destination country, USD, monthly and cumulative as returned by the customs statistics online query platform, 2025 to Sep 2026 (9,656 rows). Query-caliber rows, kept separate from published-table rows."
+  },
+  {
+   "name": "wa-customs-battery-by-country-rmb.csv",
+   "url": "https://wattanalysis.com/data/wa-customs-battery-by-country-rmb.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "Customs by destination, online-query caliber — lithium-ion accumulator exports (HS 85076000) by destination country, RMB, monthly and cumulative as returned by the customs statistics online query platform, 2025 to Sep 2026 (9,656 rows). Query-caliber rows, kept separate from published-table rows."
+  },
+  {
+   "name": "wa-customs-bev-by-country-usd.csv",
+   "url": "https://wattanalysis.com/data/wa-customs-bev-by-country-usd.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "Customs by destination, online-query caliber — pure-electric passenger vehicle exports (HS 87038010 and 87038090) by destination country, USD, monthly and cumulative as returned by the customs statistics online query platform, 2025 to Sep 2026 (10,855 rows). Query-caliber rows, kept separate from published-table rows."
+  },
+  {
+   "name": "wa-customs-bev-by-country-rmb.csv",
+   "url": "https://wattanalysis.com/data/wa-customs-bev-by-country-rmb.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "Customs by destination, online-query caliber — pure-electric passenger vehicle exports (HS 87038010 and 87038090) by destination country, RMB, monthly and cumulative as returned by the customs statistics online query platform, 2025 to Sep 2026 (10,855 rows). Query-caliber rows, kept separate from published-table rows."
+  },
+  {
+   "name": "wa-customs-ev-by-country-usd.csv",
+   "url": "https://wattanalysis.com/data/wa-customs-ev-by-country-usd.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "Customs by destination, online-query caliber — electric passenger vehicle exports, all powertrains in the 112-code query set including non-plug-in hybrids, by destination country, USD, monthly and cumulative, 2025 to Sep 2026 (17,363 rows). The query set runs about 3 to 5 percent below the published-table grouping on amounts; the gap is recorded, not adjusted."
+  },
+  {
+   "name": "wa-customs-ev-by-country-rmb.csv",
+   "url": "https://wattanalysis.com/data/wa-customs-ev-by-country-rmb.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "Customs by destination, online-query caliber — electric passenger vehicle exports, all powertrains in the 112-code query set including non-plug-in hybrids, by destination country, RMB, monthly and cumulative, 2025 to Sep 2026 (17,363 rows). The query set runs about 3 to 5 percent below the published-table grouping on amounts; the gap is recorded, not adjusted."
+  },
+  {
+   "name": "wa-customs-battery-unit-values.csv",
+   "url": "https://wattanalysis.com/data/wa-customs-battery-unit-values.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "Implied export unit values, by destination (WattAnalysis calculation) — monthly customs value divided by customs quantity for lithium-ion accumulator exports (HS 85076000), USD per unit, Jan 2025 to Sep 2026 (4,159 country-months). A calculated realised-price measure, not a quoted or spot price; read together with quantities. Reconciles with the published-table totals within 0.23 percent."
+  },
+  {
+   "name": "wa-customs-bev-unit-values.csv",
+   "url": "https://wattanalysis.com/data/wa-customs-bev-unit-values.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "Implied export unit values, by destination (WattAnalysis calculation) — monthly customs value divided by customs quantity for pure-electric passenger vehicle exports (HS 87038010 and 87038090), USD per vehicle, Jan 2025 to Sep 2026 (3,066 country-months). A calculated realised-price measure, not a quoted or spot price; read together with quantities. Reconciles with the published-table totals within 0.95 percent."
+  },
+  {
+   "name": "wa-customs-ev-unit-values.csv",
+   "url": "https://wattanalysis.com/data/wa-customs-ev-unit-values.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "Implied export unit values, by destination (WattAnalysis calculation) — monthly customs value divided by customs quantity for electric passenger vehicle exports, all powertrains in the 112-code query set including non-plug-in hybrids, USD per vehicle, Jan 2025 to Sep 2026 (3,475 country-months). A calculated realised-price measure, not a quoted or spot price. The query set runs up to about 6 percent below the published-table grouping on unit value; the gap is recorded, not adjusted."
+  },
+  {
+   "name": "wa-companies.csv",
+   "url": "https://wattanalysis.com/data/wa-companies.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "Company record — installed capacity, generation, on-grid electricity and utilisation hours from twenty listed power generators' own annual and interim reports (fifteen A-share, five Hong Kong), each in its own caliber, never compared across companies (1,655 rows)."
+  },
+  {
+   "name": "wa-companies-manufacturers.csv",
+   "url": "https://wattanalysis.com/data/wa-companies-manufacturers.csv",
+   "format": "text/csv",
+   "access": "api-key",
+   "description": "Manufacturer record — design capacity, production, shipments and order books from ten listed equipment makers' own annual and interim reports, on a separate skeleton from the generator record, never compared across companies (381 rows)."
+  }
+ ],
+ "price_series": [
+  {
+   "series_id": "WA-PRC-19",
+   "title": "PV full-chain cost curve (model)",
+   "family": "PRC-COST",
+   "source_tier": "WA-CALC",
+   "credibility_grade": "C",
+   "points": 46,
+   "json": "https://wattanalysis.com/data/api/price-wa-prc-19.json",
+   "csv": "https://wattanalysis.com/data/api/price-wa-prc-19.csv"
+  },
+  {
+   "series_id": "WA-PRC-20",
+   "title": "Storage system cost & LCOE model",
+   "family": "PRC-COST",
+   "source_tier": "WA-CALC",
+   "credibility_grade": "C",
+   "points": 28,
+   "json": "https://wattanalysis.com/data/api/price-wa-prc-20.json",
+   "csv": "https://wattanalysis.com/data/api/price-wa-prc-20.csv"
+  },
+  {
+   "series_id": "WA-PRC-21",
+   "title": "Green hydrogen LCOH model series",
+   "family": "PRC-COST",
+   "source_tier": "WA-CALC",
+   "credibility_grade": "C",
+   "points": 19,
+   "json": "https://wattanalysis.com/data/api/price-wa-prc-21.json",
+   "csv": "https://wattanalysis.com/data/api/price-wa-prc-21.csv"
+  },
+  {
+   "series_id": "WA-PRC-28",
+   "title": "Battery-grade lithium carbonate spot price — daily cross-source composite",
+   "family": "PRC-MKT",
+   "source_tier": "商业评估（多源变换）",
+   "credibility_grade": "C",
+   "points": 5,
+   "json": "https://wattanalysis.com/data/api/price-wa-prc-28.json",
+   "csv": "https://wattanalysis.com/data/api/price-wa-prc-28.csv"
+  },
+  {
+   "series_id": "WA-PRC-29",
+   "title": "Energy storage cell (280Ah) price — weekly cross-source composite",
+   "family": "PRC-MKT",
+   "source_tier": "商业评估（多源变换）",
+   "credibility_grade": "C",
+   "points": 7,
+   "json": "https://wattanalysis.com/data/api/price-wa-prc-29.json",
+   "csv": "https://wattanalysis.com/data/api/price-wa-prc-29.csv"
+  },
+  {
+   "series_id": "WA-PRC-30",
+   "title": "Li-ion battery export unit-value index — world (published-table basis, USD)",
+   "family": "PRC-CUS",
+   "source_tier": "T1（量额）",
+   "credibility_grade": "B",
+   "points": 24,
+   "json": "https://wattanalysis.com/data/api/price-wa-prc-30.json",
+   "csv": "https://wattanalysis.com/data/api/price-wa-prc-30.csv"
+  },
+  {
+   "series_id": "WA-PRC-31",
+   "title": "Li-ion battery export unit-value index — world (published-table basis, CNY)",
+   "family": "PRC-CUS",
+   "source_tier": "T1（量额）",
+   "credibility_grade": "B",
+   "points": 26,
+   "json": "https://wattanalysis.com/data/api/price-wa-prc-31.json",
+   "csv": "https://wattanalysis.com/data/api/price-wa-prc-31.csv"
+  },
+  {
+   "series_id": "WA-PRC-32",
+   "title": "Li-ion battery export unit-value index — world (query-channel aggregate, USD)",
+   "family": "PRC-CUS",
+   "source_tier": "T1（量额）",
+   "credibility_grade": "B",
+   "points": 7,
+   "json": "https://wattanalysis.com/data/api/price-wa-prc-32.json",
+   "csv": "https://wattanalysis.com/data/api/price-wa-prc-32.csv"
+  },
+  {
+   "series_id": "WA-PRC-33",
+   "title": "Li-ion battery export unit-value index — world (query-channel aggregate, CNY)",
+   "family": "PRC-CUS",
+   "source_tier": "T1（量额）",
+   "credibility_grade": "B",
+   "points": 7,
+   "json": "https://wattanalysis.com/data/api/price-wa-prc-33.json",
+   "csv": "https://wattanalysis.com/data/api/price-wa-prc-33.csv"
+  },
+  {
+   "series_id": "WA-PRC-34",
+   "title": "Tender Candidate Quote Reference Index — EPC scope (TCQ-EPC)",
+   "family": "PRC-TND",
+   "source_tier": "T1（输入）",
+   "credibility_grade": "B",
+   "points": 1,
+   "json": "https://wattanalysis.com/data/api/price-wa-prc-34.json",
+   "csv": "https://wattanalysis.com/data/api/price-wa-prc-34.csv"
+  },
+  {
+   "series_id": "WA-PRC-35",
+   "title": "Tender Candidate Quote Reference Index — system-supply scope (TCQ-SYS)",
+   "family": "PRC-TND",
+   "source_tier": "T1（输入）",
+   "credibility_grade": "B",
+   "points": 0,
+   "json": "https://wattanalysis.com/data/api/price-wa-prc-35.json",
+   "csv": "https://wattanalysis.com/data/api/price-wa-prc-35.csv"
+  }
+ ],
+ "tender_series": [
+  {
+   "series_id": "WA-PRC-05",
+   "title": "Storage system tender average price — candidate basis",
+   "family": "PRC-TND",
+   "source_tier": "T1（输入）",
+   "credibility_grade": "B",
+   "points": 0,
+   "json": "https://wattanalysis.com/data/api/tender-agg-wa-prc-05.json",
+   "csv": "https://wattanalysis.com/data/api/tender-agg-wa-prc-05.csv"
+  },
+  {
+   "series_id": "WA-PRC-06",
+   "title": "Storage EPC tender average price — candidate basis",
+   "family": "PRC-TND",
+   "source_tier": "T1（输入）",
+   "credibility_grade": "B",
+   "points": 0,
+   "json": "https://wattanalysis.com/data/api/tender-agg-wa-prc-06.json",
+   "csv": "https://wattanalysis.com/data/api/tender-agg-wa-prc-06.csv"
+  },
+  {
+   "series_id": "WA-PRC-34",
+   "title": "Tender Candidate Quote Reference Index — EPC scope (TCQ-EPC)",
+   "family": "PRC-TND",
+   "source_tier": "T1（输入）",
+   "credibility_grade": "B",
+   "points": 1,
+   "json": "https://wattanalysis.com/data/api/price-wa-prc-34.json",
+   "csv": "https://wattanalysis.com/data/api/price-wa-prc-34.csv",
+   "listed_via": "price"
+  },
+  {
+   "series_id": "WA-PRC-35",
+   "title": "Tender Candidate Quote Reference Index — system-supply scope (TCQ-SYS)",
+   "family": "PRC-TND",
+   "source_tier": "T1（输入）",
+   "credibility_grade": "B",
+   "points": 0,
+   "json": "https://wattanalysis.com/data/api/price-wa-prc-35.json",
+   "csv": "https://wattanalysis.com/data/api/price-wa-prc-35.csv",
+   "listed_via": "price"
+  }
+ ],
+ "policy": {
+  "collections": [
+   {
+    "name": "policy-documents",
+    "count": 63,
+    "json": "https://wattanalysis.com/data/api/policy-documents.json",
+    "csv": "https://wattanalysis.com/data/api/policy-documents.csv"
+   },
+   {
+    "name": "policy-measures",
+    "count": 59,
+    "json": "https://wattanalysis.com/data/api/policy-measures.json",
+    "csv": "https://wattanalysis.com/data/api/policy-measures.csv"
+   },
+   {
+    "name": "policy-status-history",
+    "count": 49,
+    "json": "https://wattanalysis.com/data/api/policy-status-history.json",
+    "csv": "https://wattanalysis.com/data/api/policy-status-history.csv"
+   },
+   {
+    "name": "policy-standards",
+    "count": 7,
+    "json": "https://wattanalysis.com/data/api/policy-standards.json",
+    "csv": "https://wattanalysis.com/data/api/policy-standards.csv"
+   }
+  ],
+  "document_entries": 63,
+  "measure_entries": 59
+ },
+ "extensions_note": "Wave-3 public layer: price, tender and policy single-series endpoints under the same licence split as the statistical layer — single series are public; bulk datasets remain API-key licensed. Internal assessment layers, single-source point registers and D-grade (withheld) series are never published. UVI endpoints (WA-PRC-30..33) passed the pre-release FX residual check on 2026-11-22 (QC #97; see their release_gate field)."
+}

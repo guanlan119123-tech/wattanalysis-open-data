@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2017-0001",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2017-0001",
+  "doc_number_key": "CBIC-50-2017",
+  "doc_number_verbatim": "Notification No. 50/2017-Customs",
+  "title": "Notification No. 50/2017-Customs (exemption notification; Sl. No. 526A covers completely built electric vehicles)",
+  "issuer": "Central Board of Indirect Taxes and Customs (India)",
+  "issuer_codes": "CBIC",
+  "jurisdiction": "India",
+  "level": "national",
+  "domain_tags": "enduse;customs-duty",
+  "issue_date": "2017",
+  "issue_date_precision": "year",
+  "effective_date": "",
+  "expiry_date": "",
+  "review_date": "2027-11-20",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "Sl. No. 526A was restructured by Budget 2025 and is also referenced in Notification No. 19/2024-Customs (page source line)",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "",
+  "note": "The page's source line also cites Notification No. 19/2024-Customs (Sl. No. 526A); the relationship between the two notifications awaits checking in a later Phase 1 batch (see migration_check open item D-15).; An official-text mirror is held locally (Council for Leather Exports, India (official export promotion council), leatherindia.org); the original will be added once an official channel is reachable."
+ }
+}

@@ -1,0 +1,451 @@
+{
+ "series_id": "WA-PRC-19",
+ "title": "PV full-chain cost curve (model)",
+ "family": "PRC-COST",
+ "sub_layer": "模型层（WA-CALC建模）",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "unit": "By item (CNY/kg, CNY/W — per the model table)",
+ "currency": "CNY",
+ "frequency": "Quarterly snapshot",
+ "caliber": {
+  "tax_caliber": "Model caliber (per the run assumption set)",
+  "delivery_caliber": "Model caliber",
+  "contract_type": "Model caliber",
+  "grade_spec": "Item grades per the model table",
+  "system_scope": "By segment (full chain, segmented)"
+ },
+ "source_name": "Model library: pv-cost-curve",
+ "source_tier": "WA-CALC",
+ "credibility_grade": "C",
+ "release_boundary": "Public with the standing label \"Model output, not an observation\", together with the assumption set and input-snapshot reference.",
+ "labels": [
+  "Model output, not an observation"
+ ],
+ "points": [
+  {
+   "item": "L1 polysilicon: market price",
+   "value": 43,
+   "unit": "CNY/kg",
+   "low": 42,
+   "high": 43,
+   "basis": "market",
+   "note": "Model output, not an observation; Silicon Industry Association transaction price 43, consistent with InfoLink range 42-43; point 43"
+  },
+  {
+   "item": "L1 polysilicon: cash cost",
+   "value": 34.3,
+   "unit": "CNY/kg",
+   "low": 33.5,
+   "high": 34.3,
+   "basis": "anchor",
+   "note": "Model output, not an observation; Mysteel cost model 2026-11-13 (frozen)"
+  },
+  {
+   "item": "L1 polysilicon: full cost",
+   "value": 46.1,
+   "unit": "CNY/kg",
+   "low": 45.3,
+   "high": 46.1,
+   "basis": "anchor",
+   "note": "Model output, not an observation; Mysteel cost model 2026-11-13 (frozen)"
+  },
+  {
+   "item": "L1 polysilicon: of which electricity cost",
+   "value": 18.75,
+   "unit": "CNY/kg",
+   "low": 15,
+   "high": 22.5,
+   "basis": "derived",
+   "note": "Model output, not an observation; 50.0 kWh/kg x electricity price (judgement)"
+  },
+  {
+   "item": "L1 polysilicon: price minus cash cost",
+   "value": 8.7,
+   "unit": "CNY/kg",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation"
+  },
+  {
+   "item": "L1 polysilicon: price minus full cost",
+   "value": -3.1,
+   "unit": "CNY/kg",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation"
+  },
+  {
+   "item": "L2 wafer 210R: silicon cost (market transfer)",
+   "value": 0.7319,
+   "unit": "CNY/pc",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; 17.02 g x 43 CNY/kg"
+  },
+  {
+   "item": "L2 wafer 210R: non-silicon cost (residual)",
+   "value": 0.5021,
+   "unit": "CNY/pc",
+   "low": null,
+   "high": null,
+   "basis": "derived_residual",
+   "note": "Model output, not an observation; full-cost anchor minus market-transfer silicon cost"
+  },
+  {
+   "item": "L2 wafer 210R: full cost",
+   "value": 1.234,
+   "unit": "CNY/pc",
+   "low": 1.199,
+   "high": 1.269,
+   "basis": "anchor_derived",
+   "note": "Model output, not an observation; Mysteel average price + net loss (method frozen, prices refreshed)"
+  },
+  {
+   "item": "L2 wafer 210R: full cost_per W",
+   "value": 0.1257,
+   "unit": "CNY/W",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; single-wafer power 9.82 W"
+  },
+  {
+   "item": "L2 wafer 210R: market price",
+   "value": 0.975,
+   "unit": "CNY/pc",
+   "low": 0.95,
+   "high": 1,
+   "basis": "market",
+   "note": "Model output, not an observation; InfoLink 2026-11-18, 210RN"
+  },
+  {
+   "item": "L2 wafer 210R: price minus full cost",
+   "value": -0.259,
+   "unit": "CNY/pc",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation"
+  },
+  {
+   "item": "L3 cell TOPCon_wafer cost (market transfer)",
+   "value": 0.0993,
+   "unit": "CNY/W",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation"
+  },
+  {
+   "item": "L3 cell TOPCon silver paste cost",
+   "value": 0.1182,
+   "unit": "CNY/W",
+   "low": 0.0892,
+   "high": 0.1182,
+   "basis": "derived_judgement",
+   "note": "Model output, not an observation; silver point estimate 11,500; range corresponds to silver 8,000-11,500"
+  },
+  {
+   "item": "L3 cell TOPCon_other non-silicon (residual)",
+   "value": 0.0825,
+   "unit": "CNY/W",
+   "low": null,
+   "high": null,
+   "basis": "derived_residual",
+   "note": "Model output, not an observation; full-cost anchor minus wafer minus silver paste"
+  },
+  {
+   "item": "L3 cell TOPCon_full cost (market transfer)",
+   "value": 0.3,
+   "unit": "CNY/W",
+   "low": null,
+   "high": null,
+   "basis": "anchor_derived",
+   "note": "Model output, not an observation; Mysteel average price minus net profit (frozen)"
+  },
+  {
+   "item": "L3 cell TOPCon_full cost (integrated)",
+   "value": 0.3264,
+   "unit": "CNY/W",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation"
+  },
+  {
+   "item": "L3 cell TOPCon_market price",
+   "value": 0.305,
+   "unit": "CNY/W",
+   "low": 0.305,
+   "high": 0.31,
+   "basis": "market",
+   "note": "Model output, not an observation; InfoLink 2026-11-18, 210RN"
+  },
+  {
+   "item": "L3 cell TOPCon_price minus full cost (market transfer)",
+   "value": 0.005,
+   "unit": "CNY/W",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation"
+  },
+  {
+   "item": "L3 cell TOPCon_price minus full cost (integrated)",
+   "value": -0.0214,
+   "unit": "CNY/W",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation"
+  },
+  {
+   "item": "L4 module TOPCon: non-cell cost (residual)",
+   "value": 0.419,
+   "unit": "CNY/W",
+   "low": 0.405,
+   "high": 0.435,
+   "basis": "derived_residual",
+   "note": "Model output, not an observation; module production-cost anchor minus cell market price (Mysteel/CPIA dual anchors)"
+  },
+  {
+   "item": "L4 module TOPCon: full cost (market transfer)",
+   "value": 0.724,
+   "unit": "CNY/W",
+   "low": null,
+   "high": null,
+   "basis": "anchor",
+   "note": "Model output, not an observation; Mysteel 2026-11-13 (frozen); CPIA Jan-2026 anchor 0.762 in parallel"
+  },
+  {
+   "item": "L4 module TOPCon: full cost (integrated)",
+   "value": 0.7454,
+   "unit": "CNY/W",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation"
+  },
+  {
+   "item": "L4 module TOPCon: cash cost",
+   "value": 0.679,
+   "unit": "CNY/W",
+   "low": 0.67,
+   "high": 0.69,
+   "basis": "derived_judgement",
+   "note": "Model output, not an observation; full cost minus non-cash assumption 0.045"
+  },
+  {
+   "item": "L4 module TOPCon: market price",
+   "value": 0.72,
+   "unit": "CNY/W",
+   "low": 0.68,
+   "high": 0.76,
+   "basis": "market",
+   "note": "Model output, not an observation; InfoLink 2026-11-18, TOPCon distributed-project delivery (calibre change registered)"
+  },
+  {
+   "item": "L4 module TOPCon: price minus cash cost",
+   "value": 0.041,
+   "unit": "CNY/W",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation"
+  },
+  {
+   "item": "L4 module TOPCon: price minus full cost (market transfer)",
+   "value": -0.004,
+   "unit": "CNY/W",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation"
+  },
+  {
+   "item": "L4 module TOPCon: price minus full cost (integrated)",
+   "value": -0.0254,
+   "unit": "CNY/W",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation"
+  },
+  {
+   "item": "silver-sensitivity Ag@8000 silver paste cost",
+   "value": 0.0892,
+   "unit": "CNY/W",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; slurry 9.2 mg/W x silver content 0.90 x silver price + processing fee"
+  },
+  {
+   "item": "silver-sensitivity Ag@8000 module full cost (market transfer)",
+   "value": 0.695,
+   "unit": "CNY/W",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation"
+  },
+  {
+   "item": "silver-sensitivity Ag@8000 module full cost (integrated)",
+   "value": 0.7164,
+   "unit": "CNY/W",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation"
+  },
+  {
+   "item": "silver-sensitivity Ag@10000 silver paste cost",
+   "value": 0.1058,
+   "unit": "CNY/W",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; slurry 9.2 mg/W x silver content 0.90 x silver price + processing fee"
+  },
+  {
+   "item": "silver-sensitivity Ag@10000 module full cost (market transfer)",
+   "value": 0.7116,
+   "unit": "CNY/W",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation"
+  },
+  {
+   "item": "silver-sensitivity Ag@10000 module full cost (integrated)",
+   "value": 0.733,
+   "unit": "CNY/W",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation"
+  },
+  {
+   "item": "silver-sensitivity Ag@11500 silver paste cost",
+   "value": 0.1182,
+   "unit": "CNY/W",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; slurry 9.2 mg/W x silver content 0.90 x silver price + processing fee"
+  },
+  {
+   "item": "silver-sensitivity Ag@11500 module full cost (market transfer)",
+   "value": 0.724,
+   "unit": "CNY/W",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation"
+  },
+  {
+   "item": "silver-sensitivity Ag@11500 module full cost (integrated)",
+   "value": 0.7454,
+   "unit": "CNY/W",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation"
+  },
+  {
+   "item": "silver-sensitivity Ag@15000 silver paste cost",
+   "value": 0.1472,
+   "unit": "CNY/W",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; slurry 9.2 mg/W x silver content 0.90 x silver price + processing fee"
+  },
+  {
+   "item": "silver-sensitivity Ag@15000 module full cost (market transfer)",
+   "value": 0.753,
+   "unit": "CNY/W",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation"
+  },
+  {
+   "item": "silver-sensitivity Ag@15000 module full cost (integrated)",
+   "value": 0.7744,
+   "unit": "CNY/W",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation"
+  },
+  {
+   "item": "silver-sensitivity Ag@20000 silver paste cost",
+   "value": 0.1886,
+   "unit": "CNY/W",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; slurry 9.2 mg/W x silver content 0.90 x silver price + processing fee"
+  },
+  {
+   "item": "silver-sensitivity Ag@20000 module full cost (market transfer)",
+   "value": 0.7944,
+   "unit": "CNY/W",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation"
+  },
+  {
+   "item": "silver-sensitivity Ag@20000 module full cost (integrated)",
+   "value": 0.8158,
+   "unit": "CNY/W",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation"
+  },
+  {
+   "item": "silver-sensitivity Ag@25000 silver paste cost",
+   "value": 0.23,
+   "unit": "CNY/W",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; slurry 9.2 mg/W x silver content 0.90 x silver price + processing fee"
+  },
+  {
+   "item": "silver-sensitivity Ag@25000 module full cost (market transfer)",
+   "value": 0.8358,
+   "unit": "CNY/W",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation"
+  },
+  {
+   "item": "silver-sensitivity Ag@25000 module full cost (integrated)",
+   "value": 0.8572,
+   "unit": "CNY/W",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation"
+  }
+ ],
+ "run": {
+  "run_id": "COST-PV-20261121-R1",
+  "model_id": "pv-cost-curve",
+  "model_version": "v1",
+  "run_date": "2026-11-21",
+  "run_type": "quarterly_snapshot",
+  "input_snapshot": "InfoLink internal, 2026-11-18: polysilicon N-type feedstock 42-43 CNY/kg (point 43); wafer 210RN 0.95-1.00 CNY/pc (point 0.975); cell 210RN 0.305-0.31 CNY/W (point 0.305); module TOPCon distributed-project delivery 0.68-0.76 CNY/W (point 0.72). Cost anchors frozen from model-library v1 run 2026-11-18: Mysteel cost model 2026-11-13 (polysilicon cash 34.3 / full 46.1 CNY/kg; wafer net loss 0.249-0.269 CNY/pc; cell net profit 0.010-0.013 CNY/W; module production cost 0.724 CNY/W); CPIA roadmap technical parameters (2025-2026 edition) unchanged; silver point estimate 11,500 CNY/kg (judgement) unchanged",
+  "assumptions": "Electricity price judgement 0.30-0.45 CNY/kWh (point 0.375); silver point estimate 11,500 CNY/kg (judgement); silver-paste silver content 0.90 (judgement); paste processing fee 2,500 CNY/kg (judgement, range 2,000-3,000); module non-cash cost 0.045 CNY/W (judgement); all non-silicon / non-cell costs by residual method (derived_residual); module price calibre changed from the v1 overall average to the distributed-project delivery midpoint (calibre change registered)"
+ }
+}

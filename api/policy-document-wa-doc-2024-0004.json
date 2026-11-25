@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2024-0004",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2024-0004",
+  "doc_number_key": "MOFCOM-2024-46",
+  "doc_number_verbatim": "MOFCOM Announcement No. 46 (2024)",
+  "title": "MOFCOM Announcement No. 46 (2024) on strengthening export control on certain dual-use items to the United States",
+  "issuer": "Ministry of Commerce (MOFCOM)",
+  "issuer_codes": "MOFCOM",
+  "jurisdiction": "China",
+  "level": "national",
+  "domain_tags": "materials;export-control;us-directed",
+  "issue_date": "2024-12",
+  "issue_date_precision": "month",
+  "effective_date": "2024-12",
+  "expiry_date": "",
+  "review_date": "2027-11-20",
+  "pol_status": "POL-SUSPENDED",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "Paragraph 2 (in-principle denial of gallium, germanium and antimony exports to the US, plus stricter end-use review for graphite to the US) is suspended by Announcement No. 72 (2025) until 27 Nov 2026; suspension is not supersession — the clause-level relationship is recorded here and the status chain in status_history",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "https://www.mofcom.gov.cn/zfxxgk/gkml/art/2024/art_99f5d51bbe6a412ca309d5818c4dee52.html",
+  "note": "The page gives the issue date only as Dec 2024; month precision."
+ }
+}

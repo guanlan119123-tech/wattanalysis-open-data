@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2025-0101",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2025-0101",
+  "doc_number_key": "NDRC-NEA-2025-136",
+  "doc_number_verbatim": "Fagai Jiage [2025] No. 136",
+  "title": "Notice on deepening the market-oriented reform of feed-in tariffs for new energy and promoting the high-quality development of new energy",
+  "issuer": "National Development and Reform Commission (NDRC); National Energy Administration (NEA)",
+  "issuer_codes": "NDRC;NEA",
+  "jurisdiction": "China",
+  "level": "national",
+  "domain_tags": "grid;power-market;storage",
+  "issue_date": "2025-01-27",
+  "issue_date_precision": "day",
+  "effective_date": "",
+  "expiry_date": "",
+  "review_date": "2027-11-20",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "Hard rules directly related to grid connection: mandatory storage allocation must not be made a precondition for the approval, grid connection or feed-in of new renewable projects; renewable generation output in principle enters the power market in full",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202502/t20250209_1396066.html",
+  "note": "NDRC original text; the document sets no separate unified effective date, so effective_date is left blank."
+ }
+}

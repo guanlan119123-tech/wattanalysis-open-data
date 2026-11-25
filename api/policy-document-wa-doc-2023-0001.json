@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2023-0001",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2023-0001",
+  "doc_number_key": "MOFCOM-GACC-2023-23",
+  "doc_number_verbatim": "MOFCOM and GACC Announcement No. 23 (2023)",
+  "title": "MOFCOM and GACC Announcement No. 23 (2023) on implementing export control on gallium- and germanium-related items",
+  "issuer": "Ministry of Commerce (MOFCOM); General Administration of Customs (GACC)",
+  "issuer_codes": "MOFCOM;GACC",
+  "jurisdiction": "China",
+  "level": "national",
+  "domain_tags": "materials;export-control",
+  "issue_date": "2023",
+  "issue_date_precision": "year",
+  "effective_date": "2023-08-01",
+  "expiry_date": "",
+  "review_date": "2027-11-20",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2023/art_52b9a321087f402bb3d310d18b07967e.html",
+  "note": "Title rendered in the announcement's commonly used form; the page gives only the document number and the measure name."
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2024-0105",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2024-0105",
+  "doc_number_key": "NDRC-20-2024",
+  "doc_number_verbatim": "NDRC Order No. 20",
+  "title": "Basic Rules for Power Market Operation",
+  "issuer": "National Development and Reform Commission (NDRC)",
+  "issuer_codes": "NDRC",
+  "jurisdiction": "China",
+  "level": "national",
+  "domain_tags": "grid;power-market",
+  "issue_date": "2024-04-25",
+  "issue_date_precision": "day",
+  "effective_date": "2024-07-01",
+  "expiry_date": "",
+  "review_date": "2027-11-20",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "Simultaneously repealed the 2005 Basic Rules for Power Market Operation (former State Electricity Regulatory Commission Order No. 10; not given a row in sub-batches A/B — the relationship is recorded here)",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "https://zfxxgk.ndrc.gov.cn/wap/iteminfo.jsp?id=20379",
+  "note": "NDRC government-information-disclosure original text."
+ }
+}

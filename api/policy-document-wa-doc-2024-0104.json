@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2024-0104",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2024-0104",
+  "doc_number_key": "NEA-2024-26",
+  "doc_number_verbatim": "Guonengfa Keji Gui [2024] No. 26",
+  "title": "Notice on promoting the grid connection and dispatch utilisation of new-type energy storage",
+  "issuer": "National Energy Administration (NEA)",
+  "issuer_codes": "NEA",
+  "jurisdiction": "China",
+  "level": "national",
+  "domain_tags": "storage;grid;dispatch",
+  "issue_date": "2024-04-02",
+  "issue_date_precision": "day",
+  "effective_date": "2024-04-02",
+  "expiry_date": "2029-04-02",
+  "review_date": "",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "Effective from the date of promulgation, valid for five years; distinguishes dispatch-called new-type storage from station self-use new-type storage",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "https://henb.nea.gov.cn/xxgk/zcfg/202406/t20240603_263943.html",
+  "note": "NEA original text republished on the website of the NEA Henan regulatory office; full text checked verbatim."
+ }
+}

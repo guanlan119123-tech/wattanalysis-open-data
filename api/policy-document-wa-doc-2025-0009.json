@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2025-0009",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2025-0009",
+  "doc_number_key": "MOFCOM-GACC-2025-72",
+  "doc_number_verbatim": "MOFCOM and GACC Announcement No. 72 (2025)",
+  "title": "MOFCOM and GACC Announcement No. 72 (2025) on suspending implementation of the US-directed measures in paragraph 2 of Announcement No. 46 (2024)",
+  "issuer": "Ministry of Commerce (MOFCOM); General Administration of Customs (GACC)",
+  "issuer_codes": "MOFCOM;GACC",
+  "jurisdiction": "China",
+  "level": "national",
+  "domain_tags": "export-control;suspension;us-directed",
+  "issue_date": "2025-11",
+  "issue_date_precision": "month",
+  "effective_date": "2025-11",
+  "expiry_date": "2026-11-27",
+  "review_date": "",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "The suspension object is paragraph 2 of Announcement No. 46 (2024); as of 12 Nov 2026 no extension announcement has been located (tracker status note); if not renewed at expiry, paragraph 2 of No. 46 revives — the chain is in the conditional-event rows of status_history",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_5c68985a6b1a46778e2e8dbff1bb1601.html",
+  "note": "Title is a WA descriptive title; issue date at month precision."
+ }
+}

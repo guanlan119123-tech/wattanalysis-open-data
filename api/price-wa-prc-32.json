@@ -1,0 +1,120 @@
+{
+ "series_id": "WA-PRC-32",
+ "title": "Li-ion battery export unit-value index — world (query-channel aggregate, USD)",
+ "family": "PRC-CUS",
+ "sub_layer": "指数层（WA-CALC）",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "unit": "Index (2025Q1 = 100); quarterly unit value in USD/piece",
+ "currency": "USD",
+ "frequency": "Quarterly",
+ "caliber": {
+  "tax_caliber": "n/a (customs declaration caliber)",
+  "delivery_caliber": "FOB declared basis (customs export values)",
+  "contract_type": "n/a",
+  "grade_spec": "Lithium-ion accumulators (HS 85076000; cells and packs combined, not further separable)",
+  "system_scope": "n/a"
+ },
+ "source_name": "General Administration of Customs quantities and values (by-country QRY caliber)",
+ "source_tier": "T1（量额）",
+ "credibility_grade": "B",
+ "release_boundary": "Public as an index layer; every point carries its base period and the standing label \"declared unit value, not a transaction price\". External release was conditional on the FX-adjusted residual check (method note s.5); that check was completed on 2026-11-22 (QC #97) and all 31 paired USD/CNY points passed within ±2pp of the PBoC central-parity quarterly mean (see release_gate).",
+ "labels": [
+  "WA-calculated declared unit value — not a transaction price"
+ ],
+ "points": [
+  {
+   "period_quarter": "2025Q1",
+   "channel": "GACC-QRY",
+   "currency": "USD",
+   "quarterly_unit_value": 15.5513,
+   "unit": "USD/piece",
+   "index_value": 100,
+   "index_base_quarter": "2025Q1",
+   "month_unit_value_min": 15.1666,
+   "month_unit_value_max": 16.0024,
+   "total_quantity_pieces": 995573448,
+   "note": "Quarterly unit value = total declared value / total declared quantity (3/3 months complete, trade-weighted); base 2025Q1 = 100; customs declared unit value (WA-CALC derived), not a market transaction price; external release pending the FX-adjusted residual check gate (method note §5)"
+  },
+  {
+   "period_quarter": "2025Q2",
+   "channel": "GACC-QRY",
+   "currency": "USD",
+   "quarterly_unit_value": 16.0347,
+   "unit": "USD/piece",
+   "index_value": 103.1,
+   "index_base_quarter": "2025Q1",
+   "month_unit_value_min": 14.8689,
+   "month_unit_value_max": 17.0275,
+   "total_quantity_pieces": 1160237988,
+   "note": "Quarterly unit value = total declared value / total declared quantity (3/3 months complete, trade-weighted); base 2025Q1 = 100; customs declared unit value (WA-CALC derived), not a market transaction price; external release pending the FX-adjusted residual check gate (method note §5)"
+  },
+  {
+   "period_quarter": "2025Q3",
+   "channel": "GACC-QRY",
+   "currency": "USD",
+   "quarterly_unit_value": 17.1228,
+   "unit": "USD/piece",
+   "index_value": 110.1,
+   "index_base_quarter": "2025Q1",
+   "month_unit_value_min": 16.4131,
+   "month_unit_value_max": 17.8768,
+   "total_quantity_pieces": 1244055768,
+   "note": "Quarterly unit value = total declared value / total declared quantity (3/3 months complete, trade-weighted); base 2025Q1 = 100; customs declared unit value (WA-CALC derived), not a market transaction price; external release pending the FX-adjusted residual check gate (method note §5)"
+  },
+  {
+   "period_quarter": "2025Q4",
+   "channel": "GACC-QRY",
+   "currency": "USD",
+   "quarterly_unit_value": 16.7042,
+   "unit": "USD/piece",
+   "index_value": 107.4,
+   "index_base_quarter": "2025Q1",
+   "month_unit_value_min": 15.2402,
+   "month_unit_value_max": 17.7461,
+   "total_quantity_pieces": 1278986268,
+   "note": "Quarterly unit value = total declared value / total declared quantity (3/3 months complete, trade-weighted); base 2025Q1 = 100; customs declared unit value (WA-CALC derived), not a market transaction price; external release pending the FX-adjusted residual check gate (method note §5)"
+  },
+  {
+   "period_quarter": "2026Q1",
+   "channel": "GACC-QRY",
+   "currency": "USD",
+   "quarterly_unit_value": 18.5015,
+   "unit": "USD/piece",
+   "index_value": 119,
+   "index_base_quarter": "2025Q1",
+   "month_unit_value_min": 16.2583,
+   "month_unit_value_max": 20.1403,
+   "total_quantity_pieces": 1294420931,
+   "note": "Quarterly unit value = total declared value / total declared quantity (3/3 months complete, trade-weighted); base 2025Q1 = 100; customs declared unit value (WA-CALC derived), not a market transaction price; external release pending the FX-adjusted residual check gate (method note §5)"
+  },
+  {
+   "period_quarter": "2026Q2",
+   "channel": "GACC-QRY",
+   "currency": "USD",
+   "quarterly_unit_value": 18.6467,
+   "unit": "USD/piece",
+   "index_value": 119.9,
+   "index_base_quarter": "2025Q1",
+   "month_unit_value_min": 17.3695,
+   "month_unit_value_max": 20.9078,
+   "total_quantity_pieces": 1324730821,
+   "note": "Quarterly unit value = total declared value / total declared quantity (3/3 months complete, trade-weighted); base 2025Q1 = 100; customs declared unit value (WA-CALC derived), not a market transaction price; external release pending the FX-adjusted residual check gate (method note §5)"
+  },
+  {
+   "period_quarter": "2026Q3",
+   "channel": "GACC-QRY",
+   "currency": "USD",
+   "quarterly_unit_value": 17.9265,
+   "unit": "USD/piece",
+   "index_value": 115.3,
+   "index_base_quarter": "2025Q1",
+   "month_unit_value_min": 17.4601,
+   "month_unit_value_max": 18.4179,
+   "total_quantity_pieces": 1679892531,
+   "note": "Quarterly unit value = total declared value / total declared quantity (3/3 months complete, trade-weighted); base 2025Q1 = 100; customs declared unit value (WA-CALC derived), not a market transaction price; external release pending the FX-adjusted residual check gate (method note §5)"
+  }
+ ],
+ "release_gate": "passed-fx-check"
+}

@@ -1,0 +1,289 @@
+{
+ "series_id": "WA-PRC-20",
+ "title": "Storage system cost & LCOE model",
+ "family": "PRC-COST",
+ "sub_layer": "模型层（WA-CALC建模）",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "unit": "CNY/Wh (cost); CNY/kWh (LCOE)",
+ "currency": "CNY",
+ "frequency": "Quarterly snapshot",
+ "caliber": {
+  "tax_caliber": "Model caliber (per the run assumption set)",
+  "delivery_caliber": "Model caliber",
+  "contract_type": "Model caliber",
+  "grade_spec": "n/a",
+  "system_scope": "System (cells + PCS + EPC items)"
+ },
+ "source_name": "Storage cost model: storage-bom-lcoe",
+ "source_tier": "WA-CALC",
+ "credibility_grade": "C",
+ "release_boundary": "Public with the standing label \"Model output, not an observation\", together with the assumption set and input-snapshot reference.",
+ "labels": [
+  "Model output, not an observation"
+ ],
+ "points": [
+  {
+   "item": "BOM: cell 314Ah",
+   "value": 0.345,
+   "unit": "CNY/Wh",
+   "low": 0.32,
+   "high": 0.37,
+   "basis": "market",
+   "note": "Model output, not an observation; InfoLink internal 2026-11-18 (MKT-ASSESS assessed average; 280Ah same price)"
+  },
+  {
+   "item": "BOM: DC-side other (racks/BMS/liquid cooling/enclosure/fire/DC protection)",
+   "value": 0.1,
+   "unit": "CNY/Wh",
+   "low": 0.08,
+   "high": 0.13,
+   "basis": "assumption",
+   "note": "Model output, not an observation; v0.1 assumption (no itemised public prices); calibrated against DC-side market price 0.48: BOM total 0.445, implied margin 0.035"
+  },
+  {
+   "item": "BOM: DC side total",
+   "value": 0.445,
+   "unit": "CNY/Wh",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; cells + DC-side other"
+  },
+  {
+   "item": "BOM: DC-side market price (reference)",
+   "value": 0.48,
+   "unit": "CNY/Wh",
+   "low": 0.44,
+   "high": 0.52,
+   "basis": "market",
+   "note": "Model output, not an observation; InfoLink internal 2026-11-18, DC-side 2h (reference only, not in totals)"
+  },
+  {
+   "item": "BOM: AC-side adder (PCS/transformer/EMS/AC protection) 2h",
+   "value": 0.09,
+   "unit": "CNY/Wh",
+   "low": 0.07,
+   "high": 0.12,
+   "basis": "assumption",
+   "note": "Model output, not an observation; v0.1 assumption (no itemised public prices)"
+  },
+  {
+   "item": "BOM: AC-side equipment cost total 2h",
+   "value": 0.535,
+   "unit": "CNY/Wh",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; DC BOM + AC-side adder; vs market price 0.58 CNY/Wh, implied margin 0.045 CNY/Wh"
+  },
+  {
+   "item": "BOM: AC-side equipment market price (reference) 2h",
+   "value": 0.58,
+   "unit": "CNY/Wh",
+   "low": null,
+   "high": null,
+   "basis": "market",
+   "note": "Model output, not an observation; InfoLink internal 2026-11-18 (reference only, not in totals)"
+  },
+  {
+   "item": "turnkey adder (CNESA EPC minus system) 2h",
+   "value": 0.3524,
+   "unit": "CNY/Wh",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; CNESA internal 2026-09, same-source same-month EPC minus system"
+  },
+  {
+   "item": "unit investment: turnkey, cross-check line 2h",
+   "value": 0.8874,
+   "unit": "CNY/Wh",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; AC equipment cost + CNESA turnkey adder; vs CNESA EPC average 1.0055, gap 0.1181 CNY/Wh (calibre difference, not merged)"
+  },
+  {
+   "item": "unit investment: EPC awarded average (primary line) 2h",
+   "value": 1.0055,
+   "unit": "CNY/Wh",
+   "low": null,
+   "high": null,
+   "basis": "market",
+   "note": "Model output, not an observation; CNESA internal 2026-09, EPC awarded average (excl. PC); LCOE primary-line input"
+  },
+  {
+   "item": "LCOE excl. charging cost 2h",
+   "value": 0.4909,
+   "unit": "CNY/kWh",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; life 15y / discount 8% (CRF 0.1168) / O&M 1.5% / 300 cycles per year / DoD 90%; annual discharge 0.27 kWh per Wh"
+  },
+  {
+   "item": "LCOE excl. charging cost, cross-check line 2h",
+   "value": 0.4333,
+   "unit": "CNY/kWh",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; turnkey cross-check line calibre; the gap to the primary line is the calibre difference"
+  },
+  {
+   "item": "LCOS incl. charging cost0.25 CNY/kWh_2h",
+   "value": 0.775,
+   "unit": "CNY/kWh",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; primary-line LCOE + charging cost 0.25 / RTE 88%; charging price is a scenario value, not an observation"
+  },
+  {
+   "item": "BOM: AC-side adder (PCS/transformer/EMS/AC protection) 4h",
+   "value": 0.06,
+   "unit": "CNY/Wh",
+   "low": 0.045,
+   "high": 0.08,
+   "basis": "assumption",
+   "note": "Model output, not an observation; v0.1 assumption (no itemised public prices)"
+  },
+  {
+   "item": "BOM: AC-side equipment cost total 4h",
+   "value": 0.505,
+   "unit": "CNY/Wh",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; DC BOM + AC-side adder; vs market price 0.53 CNY/Wh, implied margin 0.025 CNY/Wh"
+  },
+  {
+   "item": "BOM: AC-side equipment market price (reference) 4h",
+   "value": 0.53,
+   "unit": "CNY/Wh",
+   "low": null,
+   "high": null,
+   "basis": "market",
+   "note": "Model output, not an observation; InfoLink internal 2026-11-18 (reference only, not in totals)"
+  },
+  {
+   "item": "turnkey adder (CNESA EPC minus system) 4h",
+   "value": 0.3537,
+   "unit": "CNY/Wh",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; CNESA internal 2026-09, same-source same-month EPC minus system"
+  },
+  {
+   "item": "unit investment: turnkey, cross-check line 4h",
+   "value": 0.8587,
+   "unit": "CNY/Wh",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; AC equipment cost + CNESA turnkey adder; vs CNESA EPC average 0.8828, gap 0.0241 CNY/Wh (calibre difference, not merged)"
+  },
+  {
+   "item": "unit investment: EPC awarded average (primary line) 4h",
+   "value": 0.8828,
+   "unit": "CNY/Wh",
+   "low": null,
+   "high": null,
+   "basis": "market",
+   "note": "Model output, not an observation; CNESA internal 2026-09, EPC awarded average (excl. PC); LCOE primary-line input"
+  },
+  {
+   "item": "LCOE excl. charging cost 4h",
+   "value": 0.431,
+   "unit": "CNY/kWh",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; life 15y / discount 8% (CRF 0.1168) / O&M 1.5% / 300 cycles per year / DoD 90%; annual discharge 0.27 kWh per Wh"
+  },
+  {
+   "item": "LCOE excl. charging cost, cross-check line 4h",
+   "value": 0.4193,
+   "unit": "CNY/kWh",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; turnkey cross-check line calibre; the gap to the primary line is the calibre difference"
+  },
+  {
+   "item": "LCOS incl. charging cost0.25 CNY/kWh_4h",
+   "value": 0.7151,
+   "unit": "CNY/kWh",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; primary-line LCOE + charging cost 0.25 / RTE 88%; charging price is a scenario value, not an observation"
+  },
+  {
+   "item": "LCOE sensitivity 2h discount 0.06 life 15y",
+   "value": 0.4393,
+   "unit": "CNY/kWh",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; primary-line calibre, discount/life varied only"
+  },
+  {
+   "item": "LCOE sensitivity 2h discount 0.1 life 15y",
+   "value": 0.5455,
+   "unit": "CNY/kWh",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; primary-line calibre, discount/life varied only"
+  },
+  {
+   "item": "LCOE sensitivity 2h discount 0.08 life 12y",
+   "value": 0.55,
+   "unit": "CNY/kWh",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; primary-line calibre, discount/life varied only"
+  },
+  {
+   "item": "LCOE sensitivity 2h discount 0.08 life 20y",
+   "value": 0.4352,
+   "unit": "CNY/kWh",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; primary-line calibre, discount/life varied only"
+  },
+  {
+   "item": "LCOE sensitivity 2h annual cycles 200x",
+   "value": 0.7364,
+   "unit": "CNY/kWh",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; primary-line calibre, annual cycles varied only"
+  },
+  {
+   "item": "LCOE sensitivity 2h annual cycles 365x",
+   "value": 0.4035,
+   "unit": "CNY/kWh",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; primary-line calibre, annual cycles varied only"
+  }
+ ],
+ "run": {
+  "run_id": "COST-ESS-20261121-R1",
+  "model_id": "storage-bom-lcoe",
+  "model_version": "v0.1",
+  "run_date": "2026-11-21",
+  "run_type": "quarterly_snapshot",
+  "input_snapshot": "InfoLink internal 2026-11-18 (ESS weekly): 314Ah cell 0.32-0.37 CNY/Wh (avg 0.345); 280Ah 0.32-0.37 (avg 0.345); AC-side 2h system 0.52-0.63 (avg 0.58); AC-side 4h system 0.50-0.55 (avg 0.53); DC-side 2h system 0.44-0.52 (avg 0.48). CNESA internal 2026-09: system awarded averages 2h 653.1 / 4h 529.1 CNY/kWh; EPC awarded averages (excl. PC) 2h 1005.5 / 4h 882.8 CNY/kWh; turnkey adder = EPC minus system = 2h 352.4 / 4h 353.7 CNY/kWh (same-source same-month difference, used for cross-checking). TND-AGG published points are currently 0, so this model takes no tender-aggregate price input; re-basing follows QC #85 landing",
+  "assumptions": "v0.1 minimal recomputable model; assumptions flagged item by item (assumption): DC-side other BOM 0.10 CNY/Wh (0.08-0.13); PCS + transformer + EMS + AC protection adder 2h 0.09 (0.07-0.12) / 4h 0.06 (0.045-0.08) CNY/Wh; LCOE: life 15 years (12-20), discount rate 8% (6-10%), 300 cycles/year (200-365), DoD 90%, RTE 88% (85-92%), fixed O&M 1.5% of CAPEX per year (1-2%); degradation not modelled (v0.1 simplification, registered); the main LCOE table excludes charging cost, shown separately at 0.25 CNY/kWh / RTE; cell and system prices are MKT-ASSESS internal assessed values (point values not published externally); this model's outputs are WA-CALC transformed products"
+ }
+}

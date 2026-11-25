@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2021-0003",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "B",
+ "record": {
+  "doc_id": "WA-DOC-2021-0003",
+  "doc_number_key": "MNRE-ALMM-2021",
+  "doc_number_verbatim": "No document number (the order number is not given on the source page)",
+  "title": "ALMM (Approved List of Models and Manufacturers) orders — List-I (modules)",
+  "issuer": "Ministry of New and Renewable Energy (India)",
+  "issuer_codes": "MNRE",
+  "jurisdiction": "India",
+  "level": "national",
+  "domain_tags": "solar;local-content;eligibility",
+  "issue_date": "2021",
+  "issue_date_precision": "year",
+  "effective_date": "2021",
+  "expiry_date": "",
+  "review_date": "2027-11-20",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "List-II (cells) mandatory from 1 Jun 2026; List-III (wafers) announced for Jun 2028 — see measures row TF-IN-03 and the status fields",
+  "source_tier": "T1",
+  "credibility": "B",
+  "source_url": "https://cdnbbsr.s3waas.gov.in/s3716e1b8c6cd17b771da77391355749f3/uploads/2026/07/202607061987211646.pdf",
+  "note": "The ALMM order number is not given on the page; registered under a substitute key; credibility B."
+ }
+}

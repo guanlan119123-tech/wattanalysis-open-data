@@ -1,0 +1,120 @@
+{
+ "series_id": "WA-PRC-33",
+ "title": "Li-ion battery export unit-value index — world (query-channel aggregate, CNY)",
+ "family": "PRC-CUS",
+ "sub_layer": "指数层（WA-CALC）",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "unit": "Index (2025Q1 = 100); quarterly unit value in CNY/piece",
+ "currency": "CNY",
+ "frequency": "Quarterly",
+ "caliber": {
+  "tax_caliber": "n/a (customs declaration caliber)",
+  "delivery_caliber": "FOB declared basis (customs export values)",
+  "contract_type": "n/a",
+  "grade_spec": "Lithium-ion accumulators (HS 85076000; cells and packs combined, not further separable)",
+  "system_scope": "n/a"
+ },
+ "source_name": "General Administration of Customs quantities and values (by-country QRY caliber)",
+ "source_tier": "T1（量额）",
+ "credibility_grade": "B",
+ "release_boundary": "Public as an index layer; every point carries its base period and the standing label \"declared unit value, not a transaction price\". External release was conditional on the FX-adjusted residual check (method note s.5); that check was completed on 2026-11-22 (QC #97) and all 31 paired USD/CNY points passed within ±2pp of the PBoC central-parity quarterly mean (see release_gate).",
+ "labels": [
+  "WA-calculated declared unit value — not a transaction price"
+ ],
+ "points": [
+  {
+   "period_quarter": "2025Q1",
+   "channel": "GACC-QRY",
+   "currency": "CNY",
+   "quarterly_unit_value": 111.6776,
+   "unit": "CNY/piece",
+   "index_value": 100,
+   "index_base_quarter": "2025Q1",
+   "month_unit_value_min": 108.8036,
+   "month_unit_value_max": 114.7782,
+   "total_quantity_pieces": 995573448,
+   "note": "Quarterly unit value = total declared value / total declared quantity (3/3 months complete, trade-weighted); base 2025Q1 = 100; customs declared unit value (WA-CALC derived), not a market transaction price; external release pending the FX-adjusted residual check gate (method note §5)"
+  },
+  {
+   "period_quarter": "2025Q2",
+   "channel": "GACC-QRY",
+   "currency": "CNY",
+   "quarterly_unit_value": 115.2645,
+   "unit": "CNY/piece",
+   "index_value": 103.2,
+   "index_base_quarter": "2025Q1",
+   "month_unit_value_min": 106.9954,
+   "month_unit_value_max": 122.2928,
+   "total_quantity_pieces": 1160237988,
+   "note": "Quarterly unit value = total declared value / total declared quantity (3/3 months complete, trade-weighted); base 2025Q1 = 100; customs declared unit value (WA-CALC derived), not a market transaction price; external release pending the FX-adjusted residual check gate (method note §5)"
+  },
+  {
+   "period_quarter": "2025Q3",
+   "channel": "GACC-QRY",
+   "currency": "CNY",
+   "quarterly_unit_value": 122.3978,
+   "unit": "CNY/piece",
+   "index_value": 109.6,
+   "index_base_quarter": "2025Q1",
+   "month_unit_value_min": 117.6308,
+   "month_unit_value_max": 127.403,
+   "total_quantity_pieces": 1244055768,
+   "note": "Quarterly unit value = total declared value / total declared quantity (3/3 months complete, trade-weighted); base 2025Q1 = 100; customs declared unit value (WA-CALC derived), not a market transaction price; external release pending the FX-adjusted residual check gate (method note §5)"
+  },
+  {
+   "period_quarter": "2025Q4",
+   "channel": "GACC-QRY",
+   "currency": "CNY",
+   "quarterly_unit_value": 118.6156,
+   "unit": "CNY/piece",
+   "index_value": 106.2,
+   "index_base_quarter": "2025Q1",
+   "month_unit_value_min": 108.2099,
+   "month_unit_value_max": 125.7484,
+   "total_quantity_pieces": 1278986268,
+   "note": "Quarterly unit value = total declared value / total declared quantity (3/3 months complete, trade-weighted); base 2025Q1 = 100; customs declared unit value (WA-CALC derived), not a market transaction price; external release pending the FX-adjusted residual check gate (method note §5)"
+  },
+  {
+   "period_quarter": "2026Q1",
+   "channel": "GACC-QRY",
+   "currency": "CNY",
+   "quarterly_unit_value": 129.1838,
+   "unit": "CNY/piece",
+   "index_value": 115.7,
+   "index_base_quarter": "2025Q1",
+   "month_unit_value_min": 114.6802,
+   "month_unit_value_max": 139.7913,
+   "total_quantity_pieces": 1294420931,
+   "note": "Quarterly unit value = total declared value / total declared quantity (3/3 months complete, trade-weighted); base 2025Q1 = 100; customs declared unit value (WA-CALC derived), not a market transaction price; external release pending the FX-adjusted residual check gate (method note §5)"
+  },
+  {
+   "period_quarter": "2026Q2",
+   "channel": "GACC-QRY",
+   "currency": "CNY",
+   "quarterly_unit_value": 128.1884,
+   "unit": "CNY/piece",
+   "index_value": 114.8,
+   "index_base_quarter": "2025Q1",
+   "month_unit_value_min": 118.6892,
+   "month_unit_value_max": 144.6285,
+   "total_quantity_pieces": 1324730821,
+   "note": "Quarterly unit value = total declared value / total declared quantity (3/3 months complete, trade-weighted); base 2025Q1 = 100; customs declared unit value (WA-CALC derived), not a market transaction price; external release pending the FX-adjusted residual check gate (method note §5)"
+  },
+  {
+   "period_quarter": "2026Q3",
+   "channel": "GACC-QRY",
+   "currency": "CNY",
+   "quarterly_unit_value": 121.8954,
+   "unit": "CNY/piece",
+   "index_value": 109.1,
+   "index_base_quarter": "2025Q1",
+   "month_unit_value_min": 119.2673,
+   "month_unit_value_max": 124.9363,
+   "total_quantity_pieces": 1679892531,
+   "note": "Quarterly unit value = total declared value / total declared quantity (3/3 months complete, trade-weighted); base 2025Q1 = 100; customs declared unit value (WA-CALC derived), not a market transaction price; external release pending the FX-adjusted residual check gate (method note §5)"
+  }
+ ],
+ "release_gate": "passed-fx-check"
+}

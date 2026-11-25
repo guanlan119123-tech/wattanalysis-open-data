@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2026-0005",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2026-0005",
+  "doc_number_key": "EC-TARIC-202611",
+  "doc_number_verbatim": "No document number (tariff database)",
+  "title": "EU Common Customs Tariff — TARIC database (MFN third-country duties as verified Nov 2026)",
+  "issuer": "European Commission (DG TAXUD)",
+  "issuer_codes": "EC",
+  "jurisdiction": "EU",
+  "level": "supranational",
+  "domain_tags": "mfn;tariff-schedule",
+  "issue_date": "2026-11",
+  "issue_date_precision": "month",
+  "effective_date": "",
+  "expiry_date": "",
+  "review_date": "2027-11-20",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "A live database with no single-issue document number, registered under a substitute key; carries the MFN rates of measures rows TF-EU-02 and TF-EU-03",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "",
+  "note": "Registration point Nov 2026 (page verification stamp); rates per TARIC at the verification point.; TARIC is a live database; no single-document original exists (channels tried under QC81 are on file)."
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2020-0100",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2020-0100",
+  "doc_number_key": "NPCSC-58-2020",
+  "doc_number_verbatim": "Presidential Order No. 58",
+  "title": "Export Control Law of the People's Republic of China",
+  "issuer": "Standing Committee of the National People's Congress (NPCSC)",
+  "issuer_codes": "NPCSC",
+  "jurisdiction": "China",
+  "level": "national",
+  "domain_tags": "export-control;framework",
+  "issue_date": "2020-10-17",
+  "issue_date_precision": "day",
+  "effective_date": "2020-12-01",
+  "expiry_date": "",
+  "review_date": "2027-11-20",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "Framework law for export control: the control lists, export licensing, control lists (entity lists) and extraterritorial-application clauses are the superior-law basis for the control announcements in this batch",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "https://www.mofcom.gov.cn/zcfb/zhzc/art/2020/art_a292f549deab48c09fdff9a8c3cc5906.html",
+  "note": "Presidential Order promulgation text (republished on the MOFCOM website)."
+ }
+}

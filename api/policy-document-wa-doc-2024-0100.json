@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2024-0100",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2024-0100",
+  "doc_number_key": "NPCSC-23-2024",
+  "doc_number_verbatim": "Presidential Order No. 23",
+  "title": "Tariff Law of the People's Republic of China",
+  "issuer": "Standing Committee of the National People's Congress (NPCSC)",
+  "issuer_codes": "NPCSC",
+  "jurisdiction": "China",
+  "level": "national",
+  "domain_tags": "tariff;framework",
+  "issue_date": "2024-04-26",
+  "issue_date_precision": "day",
+  "effective_date": "2024-12-01",
+  "expiry_date": "",
+  "review_date": "2027-11-20",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "Tariff framework law: the common superior-law basis for the Customs Tariff Commission's additional-duty, adjustment, suspension and cessation announcements",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "https://hzf.mofcom.gov.cn/article/zyfw/flfw/swflfggz/flfwfl/202511/655.html",
+  "note": "Presidential Order promulgation text (republished on MOFCOM's national-level overseas integrated services platform)."
+ }
+}

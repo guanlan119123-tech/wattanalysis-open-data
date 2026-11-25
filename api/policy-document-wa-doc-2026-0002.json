@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2026-0002",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2026-0002",
+  "doc_number_key": "GAC-SOR-2026-32",
+  "doc_number_verbatim": "SOR/2026-32",
+  "title": "Import Control List Order (2026-1) — import quota for electric vehicles from China (49,000 units/year)",
+  "issuer": "Global Affairs Canada",
+  "issuer_codes": "GAC",
+  "jurisdiction": "Canada",
+  "level": "national",
+  "domain_tags": "enduse;import-quota",
+  "issue_date": "2026",
+  "issue_date_precision": "year",
+  "effective_date": "2026-03-01",
+  "expiry_date": "",
+  "review_date": "2027-11-20",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "Effective on the same day as SOR/2026-33; 6.1% MFN within the quota, imports above the quota prohibited",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "https://gazette.gc.ca/rp-pr/p2/2026/2026-03-11/html/sor-dors32-eng.html",
+  "note": ""
+ }
+}

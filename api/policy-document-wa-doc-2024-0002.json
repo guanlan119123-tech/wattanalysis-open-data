@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2024-0002",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2024-0002",
+  "doc_number_key": "EC-2024-2754",
+  "doc_number_verbatim": "Commission Implementing Regulation (EU) 2024/2754",
+  "title": "Commission Implementing Regulation (EU) 2024/2754 imposing a definitive countervailing duty on imports of new battery electric vehicles from China",
+  "issuer": "European Commission",
+  "issuer_codes": "EC",
+  "jurisdiction": "EU",
+  "level": "supranational",
+  "domain_tags": "enduse;countervailing",
+  "issue_date": "2024",
+  "issue_date_precision": "year",
+  "effective_date": "2024-10-30",
+  "expiry_date": "2029-10",
+  "review_date": "",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "Five-year term (the standard term under the basic anti-subsidy Regulation (EU) 2016/1037); expiry at month precision.",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "https://publications.europa.eu/resource/cellar/0109a10f-9621-11ef-a130-01aa75ed71a1.0006.01/DOC_1",
+  "note": ""
+ }
+}

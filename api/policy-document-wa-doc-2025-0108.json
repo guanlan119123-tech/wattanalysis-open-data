@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2025-0108",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2025-0108",
+  "doc_number_key": "NDRC-NEA-2025-650",
+  "doc_number_verbatim": "Fagai Nengyuan [2025] No. 650",
+  "title": "Notice on matters concerning the orderly promotion of green-power direct connection",
+  "issuer": "National Development and Reform Commission (NDRC); National Energy Administration (NEA)",
+  "issuer_codes": "NDRC;NEA",
+  "jurisdiction": "China",
+  "level": "national",
+  "domain_tags": "grid;green-power;direct-connection",
+  "issue_date": "2025-05-21",
+  "issue_date_precision": "day",
+  "effective_date": "2025-05-21",
+  "expiry_date": "",
+  "review_date": "2027-11-20",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "Single-user green-power direct-connection framework (a dedicated line supplying green power to a single electricity user); extended to multi-user cases in 2026 by Fagai Nengyuan [2026] No. 688 (WA-DOC-2026-0102); this announcement has not been superseded",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202505/t20250530_1398138.html",
+  "note": "NDRC original text (signed 21 May 2025, published on the website 30 May 2025); key ratios cross-checked against the 2026 multi-user document and the NEA press Q&A."
+ }
+}

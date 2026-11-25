@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2025-0011",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2025-0011",
+  "doc_number_key": "CBIC-4-2025",
+  "doc_number_verbatim": "Notification No. 4/2025-Customs",
+  "title": "Notification No. 4/2025-Customs (Budget 2025 restructuring of basic customs duty on solar cells and modules)",
+  "issuer": "Central Board of Indirect Taxes and Customs (India)",
+  "issuer_codes": "CBIC",
+  "jurisdiction": "India",
+  "level": "national",
+  "domain_tags": "solar;customs-duty",
+  "issue_date": "2025",
+  "issue_date_precision": "year",
+  "effective_date": "2025-02-02",
+  "expiry_date": "",
+  "review_date": "2027-11-20",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "Restructures the straight BCD in place since Apr 2022 (25% cells / 40% modules) into BCD 20% + AIDC, with the overall level unchanged (see status_history and the measures notes)",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "https://www.indiabudget.gov.in/budget2025-26/doc/cen/cus0425.pdf",
+  "note": ""
+ }
+}

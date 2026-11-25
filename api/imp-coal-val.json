@@ -1,0 +1,164 @@
+{
+ "key": "imp-coal-val",
+ "title": "Coal & lignite imports · Value",
+ "segment": "coal",
+ "unit": "USD m",
+ "caliber": "General Administration of Customs — full-coverage trade statistics",
+ "html": "https://wattanalysis.com/data/coal/#imp-coal-val",
+ "observations": [
+  {
+   "period": "2022-03",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 8310.3,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2022-04",
+   "monthly_value": 3702.222,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 11895.389,
+   "cumulative_yoy_pct": 101.2
+  },
+  {
+   "period": "2022-05",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 15500.3,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2022-06",
+   "monthly_value": 3042.5,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 18378.5,
+   "cumulative_yoy_pct": 65.4
+  },
+  {
+   "period": "2022-07",
+   "monthly_value": 3783.605,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 22208.942,
+   "cumulative_yoy_pct": 28.2
+  },
+  {
+   "period": "2022-08",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 26420.4,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2022-09",
+   "monthly_value": 3970.7,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 30343.2,
+   "cumulative_yoy_pct": 43.3
+  },
+  {
+   "period": "2022-10",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 34127.6,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2022-11",
+   "monthly_value": 4341,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 38435.7,
+   "cumulative_yoy_pct": 24.9
+  },
+  {
+   "period": "2022-12",
+   "monthly_value": 4180,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 42615.5,
+   "cumulative_yoy_pct": 17.8
+  },
+  {
+   "period": "2023-04",
+   "monthly_value": 4991.76,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 18551.689,
+   "cumulative_yoy_pct": 33.2
+  },
+  {
+   "period": "2024-04",
+   "monthly_value": 4573.8,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 16613.4,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2024-05",
+   "monthly_value": 4222.5,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 20831.7,
+   "cumulative_yoy_pct": -10.5
+  },
+  {
+   "period": "2024-07",
+   "monthly_value": 4539.7,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 29717.8,
+   "cumulative_yoy_pct": -6
+  },
+  {
+   "period": "2024-10",
+   "monthly_value": 4108.3,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 42539,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2025-10",
+   "monthly_value": 2979.4,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 28340.8,
+   "cumulative_yoy_pct": -33.4
+  },
+  {
+   "period": "2025-11",
+   "monthly_value": 3207.4,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 31567.2,
+   "cumulative_yoy_pct": -33.5
+  },
+  {
+   "period": "2026-03",
+   "monthly_value": 2944.2,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 8734.3,
+   "cumulative_yoy_pct": -6
+  },
+  {
+   "period": "2026-04",
+   "monthly_value": 2616.3,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 11360,
+   "cumulative_yoy_pct": -5.9
+  },
+  {
+   "period": "2026-05",
+   "monthly_value": 2870.1,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 14237.4,
+   "cumulative_yoy_pct": -2.9
+  },
+  {
+   "period": "2026-06",
+   "monthly_value": 3862.5,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 18110.8,
+   "cumulative_yoy_pct": 6.2
+  },
+  {
+   "period": "2026-07",
+   "monthly_value": 4354.5,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 22474,
+   "cumulative_yoy_pct": 15.7
+  }
+ ]
+}

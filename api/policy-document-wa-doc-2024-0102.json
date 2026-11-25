@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2024-0102",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2024-0102",
+  "doc_number_key": "MOFCOM-GACC-2024-33",
+  "doc_number_verbatim": "MOFCOM and GACC Announcement No. 33 (2024)",
+  "title": "Announcement on implementing export control on antimony and other items",
+  "issuer": "Ministry of Commerce (MOFCOM); General Administration of Customs (GACC)",
+  "issuer_codes": "MOFCOM;GACC",
+  "jurisdiction": "China",
+  "level": "national",
+  "domain_tags": "materials;export-control",
+  "issue_date": "2024-08-15",
+  "issue_date_precision": "day",
+  "effective_date": "2024-09-15",
+  "expiry_date": "",
+  "review_date": "2027-05-20",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "The same announcement also covers superhard-material related items (cubic presses, MPCVD equipment, diamond window materials and related technology)",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "https://www.mofcom.gov.cn/zfxxgk/fdzdgknr/ztfl/dwmygl/art/2024/art_c37e7a6e7438428c951e2b1e488dc47e.html",
+  "note": "Original text on the MOFCOM website."
+ }
+}

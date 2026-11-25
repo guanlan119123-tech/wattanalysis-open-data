@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2026-0101",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2026-0101",
+  "doc_number_key": "MOFCOM-2026-13",
+  "doc_number_verbatim": "MOFCOM Announcement No. 13 (2026)",
+  "title": "MOFCOM Announcement No. 13 (2026) publishing the adjustment of the anti-discrimination measures against Canada",
+  "issuer": "Ministry of Commerce (MOFCOM)",
+  "issuer_codes": "MOFCOM",
+  "jurisdiction": "China",
+  "level": "national",
+  "domain_tags": "tariff;canada-directed;anti-discrimination",
+  "issue_date": "2026-02-27",
+  "issue_date_precision": "day",
+  "effective_date": "2026-03-01",
+  "expiry_date": "2026-12-31",
+  "review_date": "",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "The adjustment decision of the anti-discrimination investigation authority, providing the procedural basis for Customs Tariff Commission Announcement No. 2 (2026); tariff implementation follows No. 2",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "http://www.mofcom.gov.cn/zwgk/zcfb/art/2026/art_52b7b305759f414cb86aad99c264426a.html",
+  "note": "Original text on the MOFCOM website."
+ }
+}

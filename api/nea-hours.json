@@ -1,0 +1,521 @@
+{
+ "key": "nea-hours",
+ "title": "Utilisation hours · All plant (NEA)",
+ "segment": "thermal",
+ "unit": "hours",
+ "caliber": "National Energy Administration — full-caliber statistics",
+ "html": "https://wattanalysis.com/data/thermal/#nea-hours",
+ "observations": [
+  {
+   "period": "2020-02",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 530,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2020-03",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 815,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2020-04",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 1102,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2020-05",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 1405,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2020-06",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 1727,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2020-07",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 2074,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2020-09",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 2758,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2020-10",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 3064,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2020-11",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 3384,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2020-12",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 3758,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2021-02",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 604,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2021-03",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 915,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2021-04",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 1214,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2021-05",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 1528,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2021-06",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 1853,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2021-07",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 2212,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2021-08",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 2560,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2021-09",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 2880,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2021-10",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 3180,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2021-11",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 3483,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2021-12",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 3817,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2022-02",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 597,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2022-03",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 899,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2022-04",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 1176,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2022-05",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 1462,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2022-06",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 1777,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2022-07",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 2132,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2022-08",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 2499,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2022-09",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 2799,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2022-10",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 3083,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2022-11",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 3375,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2022-12",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 3687,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2023-02",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 569,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2023-03",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 868,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2023-04",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 1145,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2023-05",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 1430,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2023-06",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 1733,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2023-07",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 2079,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2023-08",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 2423,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2023-09",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 2716,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2023-10",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 2996,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2023-11",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 3282,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2023-12",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 3592,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2024-02",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 563,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2024-03",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 844,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2024-04",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 1097,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2024-05",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 1372,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2024-06",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 1666,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2024-07",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 1994,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2024-08",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 2328,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2024-09",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 2619,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2024-10",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 2880,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2024-11",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 3147,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2024-12",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 3442,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2025-02",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 505,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2025-03",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 769,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2025-04",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 1008,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2025-05",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 1249,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2025-06",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 1504,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2025-07",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 1806,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2025-08",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 2105,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2025-09",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 2368,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2025-10",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 2619,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2025-11",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 2858,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2025-12",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 3119,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2026-02",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 466,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2026-03",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 703,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2026-04",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 925,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2026-05",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 1155,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2026-06",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 1392,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2026-07",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 1671,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2026-08",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 1942,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2026-09",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 2174,
+   "cumulative_yoy_pct": null
+  }
+ ]
+}

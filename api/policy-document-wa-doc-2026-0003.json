@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2026-0003",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2026-0003",
+  "doc_number_key": "MOFCOM-GACC-2026-58",
+  "doc_number_verbatim": "MOFCOM and GACC Announcement No. 58 (2026)",
+  "title": "MOFCOM and GACC Announcement No. 58 (2026) on continuing to suspend implementation of certain export control announcements",
+  "issuer": "Ministry of Commerce (MOFCOM); General Administration of Customs (GACC)",
+  "issuer_codes": "MOFCOM;GACC",
+  "jurisdiction": "China",
+  "level": "national",
+  "domain_tags": "export-control;suspension-continuation",
+  "issue_date": "2026-11-09",
+  "issue_date_precision": "day",
+  "effective_date": "2026-11-11",
+  "expiry_date": "2027-01-10",
+  "review_date": "",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "Continues the suspension of Announcements Nos. 55-58, 61 and 62 from 11 Nov 2026 to 10 Jan 2027 (succeeding Announcement No. 70's suspension); issue date 9 Nov 2026 per the site article's citation",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "http://dltb.mofcom.gov.cn/swyw/art/2026/art_bab1f1be0cee4e4ab0b496f02e7cff0d.html",
+  "note": ""
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2025-0104",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2025-0104",
+  "doc_number_key": "CTC-2025-2",
+  "doc_number_verbatim": "Customs Tariff Commission Announcement No. 2 (2025)",
+  "title": "Customs Tariff Commission Announcement No. 2 (2025) on imposing additional tariffs on certain imported goods originating in the United States",
+  "issuer": "Customs Tariff Commission of the State Council (CTC)",
+  "issuer_codes": "CTC",
+  "jurisdiction": "China",
+  "level": "national",
+  "domain_tags": "tariff;us-directed",
+  "issue_date": "2025-03-04",
+  "issue_date_precision": "day",
+  "effective_date": "2025-03-10",
+  "expiry_date": "2025-11-10",
+  "review_date": "",
+  "pol_status": "POL-CEASED",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "Ceased implementation from 13:01 on 10 Nov 2025 under Customs Tariff Commission Announcement No. 9 (2025) (WA-DOC-2025-0109); No. 9 uses the wording 'cease implementation' rather than repeal, and the file-level status is provisionally mapped to POL-REPEALED — see intake open item S-02; [QC #73 ruling, 20 Nov 2026] POL-CEASED (ceased implementation) added to the pol_status enum; this row has been re-mapped from the provisional POL-REPEALED to POL-CEASED, the provisional mapping trace being retained in the text above",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2025/art_a6c8e75b63db4ed19703e5248c5a2869.html",
+  "note": "MOF original text republished on the MOFCOM website; full text checked; expiry_date records the date the cessation took effect."
+ }
+}

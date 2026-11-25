@@ -1,0 +1,122 @@
+{
+ "key": "exp-coke-val",
+ "title": "Coke exports · Value",
+ "segment": "coal",
+ "unit": "USD m",
+ "caliber": "General Administration of Customs — full-coverage trade statistics",
+ "html": "https://wattanalysis.com/data/coal/#exp-coke-val",
+ "observations": [
+  {
+   "period": "2021-09",
+   "monthly_value": 184.309,
+   "monthly_yoy_pct": 178.4,
+   "cumulative_value": 1745.796,
+   "cumulative_yoy_pct": 178.4
+  },
+  {
+   "period": "2022-04",
+   "monthly_value": 303.119,
+   "monthly_yoy_pct": 18.4,
+   "cumulative_value": 1041.199,
+   "cumulative_yoy_pct": 18.4
+  },
+  {
+   "period": "2023-01",
+   "monthly_value": 235.959,
+   "monthly_yoy_pct": 33.1,
+   "cumulative_value": 235.959,
+   "cumulative_yoy_pct": 33.1
+  },
+  {
+   "period": "2023-02",
+   "monthly_value": 415.085,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 415.085,
+   "cumulative_yoy_pct": -28.2
+  },
+  {
+   "period": "2023-11",
+   "monthly_value": 219.073,
+   "monthly_yoy_pct": 5.8,
+   "cumulative_value": 2278.49,
+   "cumulative_yoy_pct": 5.8
+  },
+  {
+   "period": "2024-02",
+   "monthly_value": 364.34,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 364.34,
+   "cumulative_yoy_pct": -8.7
+  },
+  {
+   "period": "2024-04",
+   "monthly_value": 241.975,
+   "monthly_yoy_pct": 1.3,
+   "cumulative_value": 841.895,
+   "cumulative_yoy_pct": 1.3
+  },
+  {
+   "period": "2024-05",
+   "monthly_value": 138.521,
+   "monthly_yoy_pct": -33.5,
+   "cumulative_value": 980.255,
+   "cumulative_yoy_pct": -33.5
+  },
+  {
+   "period": "2024-06",
+   "monthly_value": 204.938,
+   "monthly_yoy_pct": 15.7,
+   "cumulative_value": 1184.319,
+   "cumulative_yoy_pct": 15.7
+  },
+  {
+   "period": "2024-11",
+   "monthly_value": 109.998,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 1803.714,
+   "cumulative_yoy_pct": -49.7
+  },
+  {
+   "period": "2024-12",
+   "monthly_value": 112.988,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 1915.916,
+   "cumulative_yoy_pct": -50.3
+  },
+  {
+   "period": "2026-01",
+   "monthly_value": 139.113,
+   "monthly_yoy_pct": 20.7,
+   "cumulative_value": 139.113,
+   "cumulative_yoy_pct": 20.7
+  },
+  {
+   "period": "2026-02",
+   "monthly_value": 243.246,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 243.246,
+   "cumulative_yoy_pct": 29.3
+  },
+  {
+   "period": "2026-03",
+   "monthly_value": 85.779,
+   "monthly_yoy_pct": -35,
+   "cumulative_value": 328.986,
+   "cumulative_yoy_pct": -35
+  },
+  {
+   "period": "2026-05",
+   "monthly_value": 98.117,
+   "monthly_yoy_pct": -4.5,
+   "cumulative_value": 558.906,
+   "cumulative_yoy_pct": -4.5
+  },
+  {
+   "period": "2026-08",
+   "monthly_value": 127.797,
+   "monthly_yoy_pct": 58.6,
+   "cumulative_value": 907.734,
+   "cumulative_yoy_pct": 58.6
+  }
+ ]
+}

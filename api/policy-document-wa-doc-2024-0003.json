@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2024-0003",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2024-0003",
+  "doc_number_key": "FINCA-SOR-2024-187",
+  "doc_number_verbatim": "SOR/2024-187",
+  "title": "China Surtax Order (2024)",
+  "issuer": "Department of Finance Canada",
+  "issuer_codes": "FINCA",
+  "jurisdiction": "Canada",
+  "level": "national",
+  "domain_tags": "enduse;steel;aluminium;surtax",
+  "issue_date": "2024",
+  "issue_date_precision": "year",
+  "effective_date": "2024-10-01",
+  "expiry_date": "",
+  "review_date": "2027-11-20",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "The EV surtax part was repealed by SOR/2026-33 with effect from 1 Mar 2026 (partial repeal); Schedule 2 (steel and aluminium) remains in force",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "https://gazette.gc.ca/rp-pr/p2/2024/2024-10-09/html/sor-dors187-eng.html",
+  "note": "File-level status follows the surviving part (in force); the partial-repeal relationship is recorded in relation_note and status_history."
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2025-0001",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2025-0001",
+  "doc_number_key": "MOFCOM-2025-18",
+  "doc_number_verbatim": "MOFCOM Announcement No. 18 (2025)",
+  "title": "MOFCOM Announcement No. 18 (2025) on implementing export control on certain medium and heavy rare-earth related items",
+  "issuer": "Ministry of Commerce (MOFCOM)",
+  "issuer_codes": "MOFCOM",
+  "jurisdiction": "China",
+  "level": "national",
+  "domain_tags": "materials;export-control;rare-earths",
+  "issue_date": "2025",
+  "issue_date_precision": "year",
+  "effective_date": "2025-04-04",
+  "expiry_date": "",
+  "review_date": "2027-11-20",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "Not covered by the November 2025 suspension package (tracker status note)",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_6ae1a6de386e4336837575c9bd87417a.html",
+  "note": "Title rendered in the announcement's commonly used form."
+ }
+}

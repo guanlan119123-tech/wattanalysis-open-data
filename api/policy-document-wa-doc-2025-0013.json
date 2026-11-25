@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2025-0013",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2025-0013",
+  "doc_number_key": "CBIC-45-2025",
+  "doc_number_verbatim": "Notification No. 45/2025-Customs",
+  "title": "Notification No. 45/2025-Customs (concessional BCD for lithium-ion accumulators, Sl. No. 325)",
+  "issuer": "Central Board of Indirect Taxes and Customs (India)",
+  "issuer_codes": "CBIC",
+  "jurisdiction": "India",
+  "level": "national",
+  "domain_tags": "storage;customs-duty;concession",
+  "issue_date": "2025",
+  "issue_date_precision": "year",
+  "effective_date": "2025-10-24",
+  "expiry_date": "",
+  "review_date": "2027-11-20",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "The concession excludes EV/hybrid battery packs, cellphone batteries and power banks; BESS applicability was confirmed by CBIC Circular No. 45/2026-Customs (WA-DOC-2026-0004)",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "https://courier.cbic.gov.in/advisory/2025/Notfi- 45-2025.pdf",
+  "note": ""
+ }
+}

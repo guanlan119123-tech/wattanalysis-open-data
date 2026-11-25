@@ -1,0 +1,29 @@
+{
+ "series_id": "WA-PRC-06",
+ "title": "Storage EPC tender average price — candidate basis",
+ "family": "PRC-TND",
+ "sub_layer": "聚合层（TND-AGG）",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "unit": "CNY/Wh (derived unit price, formula disclosed)",
+ "currency": "CNY",
+ "frequency": "Monthly",
+ "caliber": {
+  "tax_caliber": "Group-locked (as WA-PRC-05)",
+  "delivery_caliber": "n/a",
+  "contract_type": "Candidate-quote aggregate",
+  "grade_spec": "n/a",
+  "system_scope": "EPC (including installation works)"
+ },
+ "source_name": "Tender-database aggregate (WA-CALC, method TND-AGG-01)",
+ "source_tier": "T1（输入）",
+ "credibility_grade": "B",
+ "release_boundary": "Public as a WattAnalysis aggregate, with sample size and coverage notes on every point.",
+ "labels": [
+  "WattAnalysis aggregate of published candidate quotes — not awarded prices"
+ ],
+ "points": [],
+ "status": "registered-no-points",
+ "status_note": "No publishable point yet: all candidate-quote groups remain below the n >= 3 aggregation gate (20 sub-threshold records are held in the suppression register, disclosed as a count only). The endpoint is published empty so consumers can rely on its shape."
+}

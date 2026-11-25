@@ -1,0 +1,171 @@
+{
+ "key": "gen-hydro",
+ "title": "Generation · Hydro (NEA briefings)",
+ "segment": "hydro",
+ "unit": "TWh",
+ "caliber": "National Energy Administration — full-caliber statistics",
+ "html": "https://wattanalysis.com/data/hydro/#gen-hydro",
+ "observations": [
+  {
+   "period": "2020-03",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 196.3,
+   "cumulative_yoy_pct": -9.5
+  },
+  {
+   "period": "2020-09",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 902.5,
+   "cumulative_yoy_pct": 1
+  },
+  {
+   "period": "2020-12",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 1355.2,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2021-03",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 195.9,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2021-12",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 1340.1,
+   "cumulative_yoy_pct": -1.1
+  },
+  {
+   "period": "2022-03",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 221.2,
+   "cumulative_yoy_pct": 12.7
+  },
+  {
+   "period": "2022-09",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 950.7,
+   "cumulative_yoy_pct": 5
+  },
+  {
+   "period": "2022-12",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 1350,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2023-03",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 203.5,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2023-06",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 516.6,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2023-09",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 858.4,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2023-12",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 1280,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2024-03",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 210.2,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2024-06",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 552.6,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2024-09",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 1004,
+   "cumulative_yoy_pct": 16
+  },
+  {
+   "period": "2024-12",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 1423.9,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2025-03",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 223.3,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2025-06",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 539.8,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2025-09",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 997.1,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2025-12",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 1460,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2026-03",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 242.5,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2026-06",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 588.6,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2026-09",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 1033.9,
+   "cumulative_yoy_pct": null
+  }
+ ]
+}

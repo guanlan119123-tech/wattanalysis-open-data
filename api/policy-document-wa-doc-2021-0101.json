@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2021-0101",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "B",
+ "record": {
+  "doc_id": "WA-DOC-2021-0101",
+  "doc_number_key": "NEA-2021-61",
+  "doc_number_verbatim": "Guonengfa Jianguan Gui [2021] No. 61",
+  "title": "Measures for the Management of Power Ancillary Services",
+  "issuer": "National Energy Administration (NEA)",
+  "issuer_codes": "NEA",
+  "jurisdiction": "China",
+  "level": "national",
+  "domain_tags": "grid;ancillary-services",
+  "issue_date": "2021-12-21",
+  "issue_date_precision": "day",
+  "effective_date": "",
+  "expiry_date": "",
+  "review_date": "2027-11-20",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "Ancillary-service categories: active-power balance (frequency regulation, peak shaving, reserves, inertia, ramping), reactive-power balance, and emergency and restoration services",
+  "source_tier": "T1",
+  "credibility": "B",
+  "source_url": "http://zfxxgk.nea.gov.cn/2021-12/21/c_1310391161.htm",
+  "note": "Note as for WA-DOC-2021-0100; grade B."
+ }
+}

@@ -1,0 +1,208 @@
+{
+ "series_id": "WA-PRC-21",
+ "title": "Green hydrogen LCOH model series",
+ "family": "PRC-COST",
+ "sub_layer": "模型层（WA-CALC建模）",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "unit": "CNY/kg",
+ "currency": "CNY",
+ "frequency": "Quarterly snapshot",
+ "caliber": {
+  "tax_caliber": "Model caliber (per the run assumption set)",
+  "delivery_caliber": "Model caliber",
+  "contract_type": "Model caliber",
+  "grade_spec": "n/a",
+  "system_scope": "n/a"
+ },
+ "source_name": "Model library: green-hydrogen-lcoh",
+ "source_tier": "WA-CALC",
+ "credibility_grade": "C",
+ "release_boundary": "Public with the standing label \"Model output, not an observation\", together with the assumption set and input-snapshot reference.",
+ "labels": [
+  "Model output, not an observation"
+ ],
+ "points": [
+  {
+   "item": "baseline decomposition: electricity cost",
+   "value": 13,
+   "unit": "CNY/kg",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; 0.25 CNY/kWh x 52 kWh/kg"
+  },
+  {
+   "item": "baseline decomposition: electrolyser annualised capital",
+   "value": 1.5889,
+   "unit": "CNY/kg",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; 1200 x CRF(8%,20y)=0.1019 x 52 / 4000"
+  },
+  {
+   "item": "baseline decomposition: fixed O&M",
+   "value": 0.468,
+   "unit": "CNY/kg",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; 1200 x 3% x 52 / 4000"
+  },
+  {
+   "item": "baseline decomposition: water",
+   "value": 0.06,
+   "unit": "CNY/kg",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; 10 kg x 6 CNY/t"
+  },
+  {
+   "item": "baseline LCOH 0.25 CNY/kWh, 4000h",
+   "value": 15.1169,
+   "unit": "CNY/kg",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; sum of the four components"
+  },
+  {
+   "item": "parameter band, low combo, 0.25 CNY/kWh, 4000h",
+   "value": 13.7024,
+   "unit": "CNY/kg",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; CAPEX 950 / SEC 50 / discount 6% / life 25y / O&M 2% / water 9kg x 4 CNY"
+  },
+  {
+   "item": "parameter band, high combo, 0.25 CNY/kWh, 4000h",
+   "value": 17.7209,
+   "unit": "CNY/kg",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; CAPEX 1500 / SEC 56 / discount 10% / life 15y / O&M 4% / water 15kg x 8 CNY"
+  },
+  {
+   "item": "LCOH matrix elec@0.15 CNY/kWh, hours 2000h",
+   "value": 11.9738,
+   "unit": "CNY/kg",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; mid-tier parameters"
+  },
+  {
+   "item": "LCOH matrix elec@0.15 CNY/kWh, hours 4000h",
+   "value": 9.9169,
+   "unit": "CNY/kg",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; mid-tier parameters"
+  },
+  {
+   "item": "LCOH matrix elec@0.15 CNY/kWh, hours 6000h",
+   "value": 9.2313,
+   "unit": "CNY/kg",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; mid-tier parameters"
+  },
+  {
+   "item": "LCOH matrix elec@0.25 CNY/kWh, hours 2000h",
+   "value": 17.1738,
+   "unit": "CNY/kg",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; mid-tier parameters"
+  },
+  {
+   "item": "LCOH matrix elec@0.25 CNY/kWh, hours 4000h",
+   "value": 15.1169,
+   "unit": "CNY/kg",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; mid-tier parameters"
+  },
+  {
+   "item": "LCOH matrix elec@0.25 CNY/kWh, hours 6000h",
+   "value": 14.4313,
+   "unit": "CNY/kg",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; mid-tier parameters"
+  },
+  {
+   "item": "LCOH matrix elec@0.35 CNY/kWh, hours 2000h",
+   "value": 22.3738,
+   "unit": "CNY/kg",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; mid-tier parameters"
+  },
+  {
+   "item": "LCOH matrix elec@0.35 CNY/kWh, hours 4000h",
+   "value": 20.3169,
+   "unit": "CNY/kg",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; mid-tier parameters"
+  },
+  {
+   "item": "LCOH matrix elec@0.35 CNY/kWh, hours 6000h",
+   "value": 19.6313,
+   "unit": "CNY/kg",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; mid-tier parameters"
+  },
+  {
+   "item": "parity elec price vs Jiashi Consulting coal-H2 upper bound 12.1 CNY/kg",
+   "value": 0.192,
+   "unit": "CNY/kWh",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; mid-tier parameters, 4000h, (target minus fixed cost)/SEC"
+  },
+  {
+   "item": "parity elec price vs GF Securities coal-H2 lower bound 10.0 CNY/kg",
+   "value": 0.1516,
+   "unit": "CNY/kWh",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; mid-tier parameters, 4000h, (target minus fixed cost)/SEC"
+  },
+  {
+   "item": "parity elec price vs coal-based blue-H2 lower bound 19.1 CNY/kg",
+   "value": 0.3266,
+   "unit": "CNY/kWh",
+   "low": null,
+   "high": null,
+   "basis": "derived",
+   "note": "Model output, not an observation; mid-tier parameters, 4000h, (target minus fixed cost)/SEC"
+  }
+ ],
+ "run": {
+  "run_id": "COST-LCOH-20261121-R1",
+  "model_id": "green-hydrogen-lcoh",
+  "model_version": "v1",
+  "run_date": "2026-11-21",
+  "run_type": "quarterly_snapshot",
+  "input_snapshot": "Parameter snapshot identical to model-library green-hydrogen-lcoh-v1 run 2026-11-18, no changes: CAPEX tiers 950/1200/1500 CNY/kW (CEEC 2025 centralised procurement etc., compiled layer); SEC tiers 50/52/56 kWh/kg (system AC; Sungrow Hydrogen 4.60-4.65 kWh/Nm3 etc., compiled layer); discount rate 6/8/10% (judgement); life 15/20/25 years (judgement); fixed O&M 2/3/4% of CAPEX per year (judgement); water use 9/10/15 kg/kg; purified water 4/6/8 CNY/t (judgement). Electricity-price matrix tiers 0.15/0.25/0.35 CNY/kWh (scenario settings, anchors in the model-library run record); the price DB holds no first-party electrolyser / green-power price series yet for re-basing; source gap registered",
+  "assumptions": "Mid tier as baseline is an analytical judgement; stack replacement is not modelled explicitly (a replacement reserve is inside the O&M rate); boundary is inside the hydrogen-production plant fence, excluding civil works, off-site power lines, hydrogen storage/compression and transport/refuelling; the full-calibre grid price (Mengxi two-part 0.4355 CNY/kWh) sits above the matrix top tier, so pure grid-power LCOH should be read as at least ~22 CNY/kg; the 6,000 h tier is in tension with wind/solar direct-supply operating patterns"
+ }
+}

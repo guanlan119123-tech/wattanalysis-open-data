@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2024-0106",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2024-0106",
+  "doc_number_key": "CTC-2024-12",
+  "doc_number_verbatim": "Customs Tariff Commission Announcement No. 12 (2024)",
+  "title": "Customs Tariff Commission Announcement No. 12 (2024) on the 2025 tariff adjustment plan",
+  "issuer": "Customs Tariff Commission of the State Council (CTC)",
+  "issuer_codes": "CTC",
+  "jurisdiction": "China",
+  "level": "national",
+  "domain_tags": "tariff;annual-plan",
+  "issue_date": "2024-12-26",
+  "issue_date_precision": "day",
+  "effective_date": "2025-01-01",
+  "expiry_date": "2025-12-31",
+  "review_date": "",
+  "pol_status": "POL-SUPERSEDED",
+  "supersedes": "",
+  "superseded_by": "WA-DOC-2025-0111",
+  "relation_note": "The annual plan's implementation period is 2025; from 2026 it is succeeded by the 2026 tariff adjustment plan (annual succession, not repeal)",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "https://www.gov.cn/zhengce/zhengceku/202412/content_6995067.htm",
+  "note": "Text on gov.cn (source: MOF website)."
+ }
+}

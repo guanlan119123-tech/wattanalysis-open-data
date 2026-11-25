@@ -1,0 +1,29 @@
+{
+ "series_id": "WA-PRC-35",
+ "title": "Tender Candidate Quote Reference Index — system-supply scope (TCQ-SYS)",
+ "family": "PRC-TND",
+ "sub_layer": "指数层（WA-CALC）",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "unit": "CNY/Wh (level); index (first publishable quarter = 100)",
+ "currency": "CNY",
+ "frequency": "Quarterly",
+ "caliber": {
+  "tax_caliber": "As labelled by the source (unlabelled lots recorded as 'not stated'; no tax conversion applied)",
+  "delivery_caliber": "n/a",
+  "contract_type": "Candidate-quote aggregate",
+  "grade_spec": "n/a",
+  "system_scope": "System-supply scope (SCOPE-SYSTEM; never combined with the EPC scope WA-PRC-34)"
+ },
+ "source_name": "Tender-database aggregate (WA-CALC; inputs: price_tender_raw candidate-quote raw layer)",
+ "source_tier": "T1（输入）",
+ "credibility_grade": "B",
+ "release_boundary": "Public once points clear the n >= 3 gate, under the same disclosure discipline as WA-PRC-34. While no point clears the gate, no value — current, interpolated or carried over — may be shown.",
+ "labels": [
+  "First-ranked candidate quote — not an awarded price"
+ ],
+ "points": [],
+ "status": "registered-no-points",
+ "status_note": "No publishable point yet: qualifying samples for 2026Q2, 2026Q3 and 2026Q4 stand at n = 1 each, below the n >= 3 publication gate. Sub-threshold samples are held in the suppression register (price_tender_agg_suppressed.csv); no value is shown, interpolated or carried over."
+}

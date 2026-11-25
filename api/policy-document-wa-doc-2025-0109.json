@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2025-0109",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2025-0109",
+  "doc_number_key": "CTC-2025-9",
+  "doc_number_verbatim": "Customs Tariff Commission Announcement No. 9 (2025)",
+  "title": "Customs Tariff Commission Announcement No. 9 (2025) on ceasing implementation of additional tariff measures on certain imported goods originating in the United States",
+  "issuer": "Customs Tariff Commission of the State Council (CTC)",
+  "issuer_codes": "CTC",
+  "jurisdiction": "China",
+  "level": "national",
+  "domain_tags": "tariff;us-directed;termination",
+  "issue_date": "2025-11-05",
+  "issue_date_precision": "day",
+  "effective_date": "2025-11-10",
+  "expiry_date": "",
+  "review_date": "2027-11-20",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "The cessation object is only Customs Tariff Commission Announcement No. 2 (2025) (WA-DOC-2025-0104); No. 1 is not involved",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "https://gss.mof.gov.cn/gzdt/zhengcefabu/202511/t20251105_3975755.htm",
+  "note": "Original text, MOF Tariff Department."
+ }
+}

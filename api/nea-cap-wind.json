@@ -1,0 +1,521 @@
+{
+ "key": "nea-cap-wind",
+ "title": "Installed capacity · Wind (NEA)",
+ "segment": "wind",
+ "unit": "GW",
+ "caliber": "National Energy Administration — full-caliber statistics",
+ "html": "https://wattanalysis.com/data/wind/#nea-cap-wind",
+ "observations": [
+  {
+   "period": "2020-02",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 211.85,
+   "cumulative_yoy_pct": 13.2
+  },
+  {
+   "period": "2020-03",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 212.39,
+   "cumulative_yoy_pct": 12.4
+  },
+  {
+   "period": "2020-04",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 213.48,
+   "cumulative_yoy_pct": 12.6
+  },
+  {
+   "period": "2020-05",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 214.46,
+   "cumulative_yoy_pct": 12.4
+  },
+  {
+   "period": "2020-06",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 216.59,
+   "cumulative_yoy_pct": 12.4
+  },
+  {
+   "period": "2020-07",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 217.99,
+   "cumulative_yoy_pct": 12.2
+  },
+  {
+   "period": "2020-09",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 223.83,
+   "cumulative_yoy_pct": 13.1
+  },
+  {
+   "period": "2020-10",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 229.75,
+   "cumulative_yoy_pct": 15.3
+  },
+  {
+   "period": "2020-11",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 236.18,
+   "cumulative_yoy_pct": 17.6
+  },
+  {
+   "period": "2020-12",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 281.53,
+   "cumulative_yoy_pct": 34.6
+  },
+  {
+   "period": "2021-02",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 284.56,
+   "cumulative_yoy_pct": 34.3
+  },
+  {
+   "period": "2021-03",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 286.61,
+   "cumulative_yoy_pct": 34.9
+  },
+  {
+   "period": "2021-04",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 287.44,
+   "cumulative_yoy_pct": 34.6
+  },
+  {
+   "period": "2021-05",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 288.52,
+   "cumulative_yoy_pct": 34.4
+  },
+  {
+   "period": "2021-06",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 291.92,
+   "cumulative_yoy_pct": 34.7
+  },
+  {
+   "period": "2021-07",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 293.1,
+   "cumulative_yoy_pct": 34.4
+  },
+  {
+   "period": "2021-08",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 295.32,
+   "cumulative_yoy_pct": 33.8
+  },
+  {
+   "period": "2021-09",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 297.27,
+   "cumulative_yoy_pct": 32.8
+  },
+  {
+   "period": "2021-10",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 299.63,
+   "cumulative_yoy_pct": 30.4
+  },
+  {
+   "period": "2021-11",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 304.86,
+   "cumulative_yoy_pct": 29
+  },
+  {
+   "period": "2021-12",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 328.48,
+   "cumulative_yoy_pct": 16.6
+  },
+  {
+   "period": "2022-02",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 334.42,
+   "cumulative_yoy_pct": 17.5
+  },
+  {
+   "period": "2022-03",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 336.52,
+   "cumulative_yoy_pct": 17.4
+  },
+  {
+   "period": "2022-04",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 338.26,
+   "cumulative_yoy_pct": 17.7
+  },
+  {
+   "period": "2022-05",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 339.36,
+   "cumulative_yoy_pct": 17.6
+  },
+  {
+   "period": "2022-06",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 342.24,
+   "cumulative_yoy_pct": 17.2
+  },
+  {
+   "period": "2022-07",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 343.7,
+   "cumulative_yoy_pct": 17.2
+  },
+  {
+   "period": "2022-08",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 344.5,
+   "cumulative_yoy_pct": 16.6
+  },
+  {
+   "period": "2022-09",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 347.67,
+   "cumulative_yoy_pct": 16.9
+  },
+  {
+   "period": "2022-10",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 349.39,
+   "cumulative_yoy_pct": 16.6
+  },
+  {
+   "period": "2022-11",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 350.96,
+   "cumulative_yoy_pct": 15.1
+  },
+  {
+   "period": "2022-12",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 365.44,
+   "cumulative_yoy_pct": 11.2
+  },
+  {
+   "period": "2023-02",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 371.26,
+   "cumulative_yoy_pct": 11
+  },
+  {
+   "period": "2023-03",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 375.73,
+   "cumulative_yoy_pct": 11.7
+  },
+  {
+   "period": "2023-04",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 379.66,
+   "cumulative_yoy_pct": 12.2
+  },
+  {
+   "period": "2023-05",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 382.6,
+   "cumulative_yoy_pct": 12.7
+  },
+  {
+   "period": "2023-06",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 389.21,
+   "cumulative_yoy_pct": 13.7
+  },
+  {
+   "period": "2023-07",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 392.91,
+   "cumulative_yoy_pct": 14.3
+  },
+  {
+   "period": "2023-08",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 395.37,
+   "cumulative_yoy_pct": 14.8
+  },
+  {
+   "period": "2023-09",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 400.21,
+   "cumulative_yoy_pct": 15.1
+  },
+  {
+   "period": "2023-10",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 404,
+   "cumulative_yoy_pct": 15.6
+  },
+  {
+   "period": "2023-11",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 412.83,
+   "cumulative_yoy_pct": 17.6
+  },
+  {
+   "period": "2023-12",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 441.34,
+   "cumulative_yoy_pct": 20.7
+  },
+  {
+   "period": "2024-02",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 450.35,
+   "cumulative_yoy_pct": 21.3
+  },
+  {
+   "period": "2024-03",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 456.64,
+   "cumulative_yoy_pct": 21.5
+  },
+  {
+   "period": "2024-04",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 458.03,
+   "cumulative_yoy_pct": 20.6
+  },
+  {
+   "period": "2024-05",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 461.04,
+   "cumulative_yoy_pct": 20.5
+  },
+  {
+   "period": "2024-06",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 466.71,
+   "cumulative_yoy_pct": 19.9
+  },
+  {
+   "period": "2024-07",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 470.53,
+   "cumulative_yoy_pct": 19.8
+  },
+  {
+   "period": "2024-08",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 474.03,
+   "cumulative_yoy_pct": 19.9
+  },
+  {
+   "period": "2024-09",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 479.55,
+   "cumulative_yoy_pct": 19.8
+  },
+  {
+   "period": "2024-10",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 486.17,
+   "cumulative_yoy_pct": 20.3
+  },
+  {
+   "period": "2024-11",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 492.18,
+   "cumulative_yoy_pct": 19.2
+  },
+  {
+   "period": "2024-12",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 520.68,
+   "cumulative_yoy_pct": 18
+  },
+  {
+   "period": "2025-02",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 529.82,
+   "cumulative_yoy_pct": 17.6
+  },
+  {
+   "period": "2025-03",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 535.37,
+   "cumulative_yoy_pct": 17.2
+  },
+  {
+   "period": "2025-04",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 541.19,
+   "cumulative_yoy_pct": 18.2
+  },
+  {
+   "period": "2025-05",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 567.49,
+   "cumulative_yoy_pct": 23.1
+  },
+  {
+   "period": "2025-06",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 572.6,
+   "cumulative_yoy_pct": 22.7
+  },
+  {
+   "period": "2025-07",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 574.87,
+   "cumulative_yoy_pct": 22.1
+  },
+  {
+   "period": "2025-08",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 579.01,
+   "cumulative_yoy_pct": 22.1
+  },
+  {
+   "period": "2025-09",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 581.59,
+   "cumulative_yoy_pct": 21.3
+  },
+  {
+   "period": "2025-10",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 590.39,
+   "cumulative_yoy_pct": 21.4
+  },
+  {
+   "period": "2025-11",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 602.64,
+   "cumulative_yoy_pct": 22.4
+  },
+  {
+   "period": "2025-12",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 640.01,
+   "cumulative_yoy_pct": 22.9
+  },
+  {
+   "period": "2026-02",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 650.66,
+   "cumulative_yoy_pct": 22.8
+  },
+  {
+   "period": "2026-03",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 655.23,
+   "cumulative_yoy_pct": 22.4
+  },
+  {
+   "period": "2026-04",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 660.62,
+   "cumulative_yoy_pct": 22
+  },
+  {
+   "period": "2026-05",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 664.27,
+   "cumulative_yoy_pct": 17
+  },
+  {
+   "period": "2026-06",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 678.75,
+   "cumulative_yoy_pct": 18.5
+  },
+  {
+   "period": "2026-07",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 687.2,
+   "cumulative_yoy_pct": 19.5
+  },
+  {
+   "period": "2026-08",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 692.72,
+   "cumulative_yoy_pct": 19.6
+  },
+  {
+   "period": "2026-09",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 699.99,
+   "cumulative_yoy_pct": 20.4
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2015-0001",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "B",
+ "record": {
+  "doc_id": "WA-DOC-2015-0001",
+  "doc_number_key": "CBSA-SIMA-2015",
+  "doc_number_verbatim": "No document number (the order number is not given on the page)",
+  "title": "SIMA anti-dumping / countervailing order on certain photovoltaic modules and laminates originating in China (2015)",
+  "issuer": "Canada Border Services Agency / Canadian International Trade Tribunal",
+  "issuer_codes": "CBSA;CITT",
+  "jurisdiction": "Canada",
+  "level": "national",
+  "domain_tags": "solar;anti-dumping;countervailing",
+  "issue_date": "2015",
+  "issue_date_precision": "year",
+  "effective_date": "",
+  "expiry_date": "",
+  "review_date": "2027-11-20",
+  "pol_status": "POL-REPEALED",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "Rescinded by the CITT expiry review RR-2025-008 on 17 Sep 2026 (see status_history)",
+  "source_tier": "T1",
+  "credibility": "B",
+  "source_url": "https://gazette.gc.ca/rp-pr/p1/2015/2015-09-05/html/commis-eng.html",
+  "note": "The original order number is not given on the tracker page; credibility B; the title is a WA descriptive title."
+ }
+}

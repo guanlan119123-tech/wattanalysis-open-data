@@ -1,0 +1,164 @@
+{
+ "key": "imp-gas-val",
+ "title": "Natural gas imports · Value",
+ "segment": "oil-gas",
+ "unit": "USD m",
+ "caliber": "General Administration of Customs — full-coverage trade statistics",
+ "html": "https://wattanalysis.com/data/oil-gas/#imp-gas-val",
+ "observations": [
+  {
+   "period": "2022-03",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 17360.6,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2022-04",
+   "monthly_value": 4260.706,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 21641.379,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2022-05",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 26851,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2022-06",
+   "monthly_value": 4862.5,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 31666.9,
+   "cumulative_yoy_pct": 51.4
+  },
+  {
+   "period": "2022-07",
+   "monthly_value": 4781.647,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 36442.085,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2022-08",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 42463.7,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2022-09",
+   "monthly_value": 7280.2,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 49672.9,
+   "cumulative_yoy_pct": 43.9
+  },
+  {
+   "period": "2022-10",
+   "monthly_value": null,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 55156.5,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2022-11",
+   "monthly_value": 7304.8,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 62418.2,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2022-12",
+   "monthly_value": 7614.6,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 70018.8,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2023-04",
+   "monthly_value": 4775.393,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 21575.925,
+   "cumulative_yoy_pct": 12.4
+  },
+  {
+   "period": "2024-04",
+   "monthly_value": 4888.2,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 21382.9,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2024-05",
+   "monthly_value": 5427.6,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 26778.6,
+   "cumulative_yoy_pct": -0.7
+  },
+  {
+   "period": "2024-07",
+   "monthly_value": 5193.5,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 36926,
+   "cumulative_yoy_pct": 0
+  },
+  {
+   "period": "2024-10",
+   "monthly_value": 5400.4,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 54030.8,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2025-10",
+   "monthly_value": 4154,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 45867.6,
+   "cumulative_yoy_pct": -15.1
+  },
+  {
+   "period": "2025-11",
+   "monthly_value": 5030.7,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 50874.3,
+   "cumulative_yoy_pct": -14.3
+  },
+  {
+   "period": "2026-03",
+   "monthly_value": 3210.7,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 11630.5,
+   "cumulative_yoy_pct": -15.4
+  },
+  {
+   "period": "2026-04",
+   "monthly_value": 3597,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 15227.1,
+   "cumulative_yoy_pct": -15.1
+  },
+  {
+   "period": "2026-05",
+   "monthly_value": 4826.5,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 20033.4,
+   "cumulative_yoy_pct": -10.1
+  },
+  {
+   "period": "2026-06",
+   "monthly_value": 5531.6,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 25533.4,
+   "cumulative_yoy_pct": -5.3
+  },
+  {
+   "period": "2026-07",
+   "monthly_value": 5699.6,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 31206.3,
+   "cumulative_yoy_pct": -1.6
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2025-0105",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2025-0105",
+  "doc_number_key": "CTC-2025-3",
+  "doc_number_verbatim": "Customs Tariff Commission Announcement No. 3 (2025)",
+  "title": "Customs Tariff Commission Announcement No. 3 (2025) on imposing additional tariffs on certain imported goods originating in Canada",
+  "issuer": "Customs Tariff Commission of the State Council (CTC)",
+  "issuer_codes": "CTC",
+  "jurisdiction": "China",
+  "level": "national",
+  "domain_tags": "tariff;canada-directed",
+  "issue_date": "2025-03-08",
+  "issue_date_precision": "day",
+  "effective_date": "2025-03-20",
+  "expiry_date": "",
+  "review_date": "2026-12-31",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "Certain goods are not subject to the additional duty from 1 Mar 2026 to 31 Dec 2026 under Customs Tariff Commission Announcement No. 2 (2026) (WA-DOC-2026-0100) (oilseed cake, peas, lobster, crab); the remaining measures continue in force; the file-level status follows the surviving part",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2025/art_8a90791712114e0895e229fca81286bc.html",
+  "note": "MOF original text republished on the MOFCOM website; full text checked."
+ }
+}

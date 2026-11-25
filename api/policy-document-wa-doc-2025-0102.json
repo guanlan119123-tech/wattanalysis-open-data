@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2025-0102",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2025-0102",
+  "doc_number_key": "MOFCOM-GACC-2025-10",
+  "doc_number_verbatim": "MOFCOM and GACC Announcement No. 10 (2025)",
+  "title": "Announcement publishing the decision to implement export control on tungsten, tellurium, bismuth, molybdenum and indium related items",
+  "issuer": "Ministry of Commerce (MOFCOM); General Administration of Customs (GACC)",
+  "issuer_codes": "MOFCOM;GACC",
+  "jurisdiction": "China",
+  "level": "national",
+  "domain_tags": "materials;export-control",
+  "issue_date": "2025-02-04",
+  "issue_date_precision": "day",
+  "effective_date": "2025-02-04",
+  "expiry_date": "",
+  "review_date": "2027-05-20",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "Implemented from the date of promulgation; not covered by the October 2025 control package's suspension measures",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "https://www.mofcom.gov.cn/zcfb/blgg/art/2025/art_122e2d0d6dc44c58a7caf0b5b75e7422.html",
+  "note": "Original text on the MOFCOM website."
+ }
+}

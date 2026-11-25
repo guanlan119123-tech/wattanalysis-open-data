@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2026-0004",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2026-0004",
+  "doc_number_key": "CBIC-CIRC-45-2026",
+  "doc_number_verbatim": "CBIC Circular No. 45/2026-Customs",
+  "title": "CBIC Circular No. 45/2026-Customs (clarification: stationary BESS qualifies for the 10% concessional BCD under Notification No. 45/2025-Customs)",
+  "issuer": "Central Board of Indirect Taxes and Customs (India)",
+  "issuer_codes": "CBIC",
+  "jurisdiction": "India",
+  "level": "national",
+  "domain_tags": "storage;customs-duty;clarification",
+  "issue_date": "2026",
+  "issue_date_precision": "year",
+  "effective_date": "",
+  "expiry_date": "",
+  "review_date": "2027-11-20",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "Clarifies the scope of WA-DOC-2025-0013",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "",
+  "note": "An official-text mirror is held locally (Energetica India (energetica-india.net)); the original will be added once an official channel is reachable."
+ }
+}

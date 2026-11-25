@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2025-0002",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2025-0002",
+  "doc_number_key": "MOFCOM-GACC-2025-55",
+  "doc_number_verbatim": "MOFCOM and GACC Announcement No. 55 (2025)",
+  "title": "Announcement No. 55 (2025), component announcement of the October 2025 export control package",
+  "issuer": "Ministry of Commerce (MOFCOM); General Administration of Customs (GACC)",
+  "issuer_codes": "MOFCOM;GACC",
+  "jurisdiction": "China",
+  "level": "national",
+  "domain_tags": "materials;export-control;rare-earths",
+  "issue_date": "2025-10",
+  "issue_date_precision": "month",
+  "effective_date": "",
+  "expiry_date": "",
+  "review_date": "2027-11-20",
+  "pol_status": "POL-SUSPENDED",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "Originally scheduled to take effect on 8 Nov 2025 (one of the four in-package announcements); suspended by Announcement No. 70 and continued by Announcement No. 58 (2026) until 10 Jan 2027; status chain in status_history",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_949f47563b834dad95b0010f375a892c.html",
+  "note": "The page does not assign the controlled items to each announcement number individually; to be split per the announcement originals in a later batch (see migration_check open item D-16)."
+ }
+}

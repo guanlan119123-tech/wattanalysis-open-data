@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2025-0106",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "B",
+ "record": {
+  "doc_id": "WA-DOC-2025-0106",
+  "doc_number_key": "CTC-2025-4",
+  "doc_number_verbatim": "Customs Tariff Commission Announcement No. 4 (2025)",
+  "title": "Customs Tariff Commission Announcement No. 4 (2025) on imposing additional tariffs on imported goods originating in the United States",
+  "issuer": "Customs Tariff Commission of the State Council (CTC)",
+  "issuer_codes": "CTC",
+  "jurisdiction": "China",
+  "level": "national",
+  "domain_tags": "tariff;us-directed",
+  "issue_date": "2025-04-04",
+  "issue_date_precision": "day",
+  "effective_date": "2025-04-10",
+  "expiry_date": "",
+  "review_date": "2027-01-10",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "Original additional duty 34%; raised by Nos. 5 and 6 (84%, 125%), brought back by No. 7 to 10% with 24 percentage points suspended, and the suspension continued by No. 8, No. 10 and No. 6 (2026); the operative status in force is: 10% retained, 24 percentage points suspended until 10 Jan 2027 (split in measures B1-TAR-11/12)",
+  "source_tier": "T1",
+  "credibility": "B",
+  "source_url": "http://gss.mof.gov.cn/ywwz_14735/Policies/202509/t20250919_3972673.htm",
+  "note": "The original 34% clause was checked against the MOF English-edition text; the subsequent rate chain is consistent across multiple official republications; the row is graded B overall."
+ }
+}

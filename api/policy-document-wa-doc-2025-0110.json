@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2025-0110",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2025-0110",
+  "doc_number_key": "CTC-2025-10",
+  "doc_number_verbatim": "Customs Tariff Commission Announcement No. 10 (2025)",
+  "title": "Customs Tariff Commission Announcement No. 10 (2025) on adjusting additional tariff measures on imported goods originating in the United States",
+  "issuer": "Customs Tariff Commission of the State Council (CTC)",
+  "issuer_codes": "CTC",
+  "jurisdiction": "China",
+  "level": "national",
+  "domain_tags": "tariff;us-directed;suspension",
+  "issue_date": "2025-11-05",
+  "issue_date_precision": "day",
+  "effective_date": "2025-11-10",
+  "expiry_date": "2026-11-10",
+  "review_date": "",
+  "pol_status": "POL-SUPERSEDED",
+  "supersedes": "",
+  "superseded_by": "WA-DOC-2026-0103",
+  "relation_note": "The one-year suspension window (from 13:01 on 10 Nov 2025) expired on 10 Nov 2026 and was continued for two months from 13:01 on 10 Nov 2026 by Customs Tariff Commission Announcement No. 6 (2026)",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "https://gss.mof.gov.cn/gzdt/zhengcefabu/202511/t20251105_3975756.htm",
+  "note": "Original text, MOF Tariff Department."
+ }
+}

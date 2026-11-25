@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2023-0003",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2023-0003",
+  "doc_number_key": "EC-2023-956",
+  "doc_number_verbatim": "Regulation (EU) 2023/956",
+  "title": "Regulation (EU) 2023/956 establishing a carbon border adjustment mechanism (CBAM)",
+  "issuer": "European Parliament and Council / European Commission",
+  "issuer_codes": "EC",
+  "jurisdiction": "EU",
+  "level": "supranational",
+  "domain_tags": "cbam;steel;aluminium;hydrogen;electricity;fertilisers;cement",
+  "issue_date": "2023",
+  "issue_date_precision": "year",
+  "effective_date": "2026-01-01",
+  "expiry_date": "",
+  "review_date": "2027-11-20",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "Simplification amendment by Regulation (EU) 2025/2083 (WA-DOC-2025-0015); definitive period from 1 Jan 2026",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "https://publications.europa.eu/resource/cellar/e5587bf5-f383-11ed-a05c-01aa75ed71a1.0006.01/DOC_1",
+  "note": "Issue date not given on the page; year precision."
+ }
+}

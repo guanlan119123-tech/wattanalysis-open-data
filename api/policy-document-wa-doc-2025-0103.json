@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2025-0103",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2025-0103",
+  "doc_number_key": "CTC-2025-1",
+  "doc_number_verbatim": "Customs Tariff Commission Announcement No. 1 (2025)",
+  "title": "Customs Tariff Commission Announcement No. 1 (2025) on imposing additional tariffs on certain imported goods originating in the United States",
+  "issuer": "Customs Tariff Commission of the State Council (CTC)",
+  "issuer_codes": "CTC",
+  "jurisdiction": "China",
+  "level": "national",
+  "domain_tags": "tariff;us-directed",
+  "issue_date": "2025-02-04",
+  "issue_date_precision": "day",
+  "effective_date": "2025-02-10",
+  "expiry_date": "",
+  "review_date": "2027-01-10",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "The object ceased by Announcement No. 9 is No. 2, not this announcement; no basis for ceasing this announcement as a whole was found this round, so its status is in force",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "http://cws.mofcom.gov.cn/xxfb/art/2025/art_335d3b246b6f41bd8cb868aae48f1b5e.html",
+  "note": "MOF original text republished on the MOFCOM website; full text checked."
+ }
+}

@@ -1,0 +1,150 @@
+{
+ "key": "exp-cells",
+ "title": "Solar cell exports",
+ "segment": "solar",
+ "unit": "m units",
+ "caliber": "General Administration of Customs — full-coverage trade statistics",
+ "html": "https://wattanalysis.com/data/solar/#exp-cells",
+ "observations": [
+  {
+   "period": "2021-08",
+   "monthly_value": 281.3,
+   "monthly_yoy_pct": 2.3,
+   "cumulative_value": 2139.41,
+   "cumulative_yoy_pct": 2.3
+  },
+  {
+   "period": "2021-09",
+   "monthly_value": 257.39,
+   "monthly_yoy_pct": -3.4,
+   "cumulative_value": 2396.8,
+   "cumulative_yoy_pct": -3.4
+  },
+  {
+   "period": "2022-02",
+   "monthly_value": 540.53,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 540.53,
+   "cumulative_yoy_pct": -3
+  },
+  {
+   "period": "2022-03",
+   "monthly_value": 430.51,
+   "monthly_yoy_pct": 23.5,
+   "cumulative_value": 971.04,
+   "cumulative_yoy_pct": 23.5
+  },
+  {
+   "period": "2022-04",
+   "monthly_value": 280.95,
+   "monthly_yoy_pct": -7.8,
+   "cumulative_value": 1251.99,
+   "cumulative_yoy_pct": -7.8
+  },
+  {
+   "period": "2022-06",
+   "monthly_value": 326.87,
+   "monthly_yoy_pct": 54.4,
+   "cumulative_value": 1921.61,
+   "cumulative_yoy_pct": 54.4
+  },
+  {
+   "period": "2022-07",
+   "monthly_value": 375.92,
+   "monthly_yoy_pct": 95.8,
+   "cumulative_value": 2297.51,
+   "cumulative_yoy_pct": 95.8
+  },
+  {
+   "period": "2023-01",
+   "monthly_value": 561.79,
+   "monthly_yoy_pct": 111.3,
+   "cumulative_value": null,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2023-02",
+   "monthly_value": 969.89,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 969.89,
+   "cumulative_yoy_pct": 48.6
+  },
+  {
+   "period": "2023-11",
+   "monthly_value": 459.12,
+   "monthly_yoy_pct": 31.2,
+   "cumulative_value": 5187.6,
+   "cumulative_yoy_pct": 31.2
+  },
+  {
+   "period": "2024-02",
+   "monthly_value": 1288.81,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 1288.81,
+   "cumulative_yoy_pct": 48.2
+  },
+  {
+   "period": "2024-04",
+   "monthly_value": 503.1,
+   "monthly_yoy_pct": 15.2,
+   "cumulative_value": 2308.55,
+   "cumulative_yoy_pct": 15.2
+  },
+  {
+   "period": "2024-05",
+   "monthly_value": 593.66,
+   "monthly_yoy_pct": 24.1,
+   "cumulative_value": 2902.19,
+   "cumulative_yoy_pct": 24.1
+  },
+  {
+   "period": "2024-06",
+   "monthly_value": 610.28,
+   "monthly_yoy_pct": 30.1,
+   "cumulative_value": 3512.43,
+   "cumulative_yoy_pct": 30.1
+  },
+  {
+   "period": "2024-12",
+   "monthly_value": 820.88,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 7787.43,
+   "cumulative_yoy_pct": 82.8
+  },
+  {
+   "period": "2026-01",
+   "monthly_value": 1041.57,
+   "monthly_yoy_pct": 8.7,
+   "cumulative_value": null,
+   "cumulative_yoy_pct": null
+  },
+  {
+   "period": "2026-02",
+   "monthly_value": 1901.68,
+   "monthly_yoy_pct": null,
+   "cumulative_value": 1901.68,
+   "cumulative_yoy_pct": 20.6
+  },
+  {
+   "period": "2026-03",
+   "monthly_value": 1713.23,
+   "monthly_yoy_pct": 79.6,
+   "cumulative_value": 3614.9,
+   "cumulative_yoy_pct": 79.6
+  },
+  {
+   "period": "2026-05",
+   "monthly_value": 918.32,
+   "monthly_yoy_pct": -11.2,
+   "cumulative_value": 5876.89,
+   "cumulative_yoy_pct": -11.2
+  },
+  {
+   "period": "2026-08",
+   "monthly_value": 924.9,
+   "monthly_yoy_pct": -37.8,
+   "cumulative_value": 8203.71,
+   "cumulative_yoy_pct": -37.8
+  }
+ ]
+}

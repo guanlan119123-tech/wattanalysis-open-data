@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2025-0008",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2025-0008",
+  "doc_number_key": "MOFCOM-GACC-2025-70",
+  "doc_number_verbatim": "MOFCOM and GACC Announcement No. 70 (2025)",
+  "title": "MOFCOM and GACC Announcement No. 70 (2025) on suspending implementation of certain export control announcements",
+  "issuer": "Ministry of Commerce (MOFCOM); General Administration of Customs (GACC)",
+  "issuer_codes": "MOFCOM;GACC",
+  "jurisdiction": "China",
+  "level": "national",
+  "domain_tags": "export-control;suspension",
+  "issue_date": "2025-11",
+  "issue_date_precision": "month",
+  "effective_date": "2025-11",
+  "expiry_date": "2026-11-10",
+  "review_date": "",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "Suspends Announcements Nos. 55-58, 61 and 62 until 10 Nov 2026; its suspension was continued by Announcement No. 58 (2026) from 11 Nov 2026 to 10 Jan 2027 (see status_history)",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_b1ec77dd3f0d4762952904df7cdaadec.html",
+  "note": "The page does not give the exact issue day; month precision."
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2025-0006",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2025-0006",
+  "doc_number_key": "MOFCOM-2025-61",
+  "doc_number_verbatim": "MOFCOM Announcement No. 61 (2025)",
+  "title": "MOFCOM Announcement No. 61 (2025): decision on implementing export control on relevant overseas rare-earth items",
+  "issuer": "Ministry of Commerce (MOFCOM)",
+  "issuer_codes": "MOFCOM",
+  "jurisdiction": "China",
+  "level": "national",
+  "domain_tags": "storage;materials;export-control",
+  "issue_date": "2025-10",
+  "issue_date_precision": "month",
+  "effective_date": "",
+  "expiry_date": "",
+  "review_date": "2027-11-20",
+  "pol_status": "POL-SUSPENDED",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "Suspended by Announcement No. 70 and continued by Announcement No. 58 (2026) until 10 Jan 2027",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "https://www.mofcom.gov.cn/zcfb/zc/art/2025/art_b2ad258652cf4c31858550c3a597b04f.html",
+  "note": "Announcements Nos. 61 and 62 were issued by MOFCOM alone (per the site's article); the originally scheduled effective date is not given on the page. [EN mirror: title corrected per intake open item S-01 — see en_mirror_notes.md.]"
+ }
+}

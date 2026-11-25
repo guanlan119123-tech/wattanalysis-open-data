@@ -1,0 +1,89 @@
+{
+ "series_id": "WA-PRC-28",
+ "title": "Battery-grade lithium carbonate spot price — daily cross-source composite",
+ "family": "PRC-MKT",
+ "sub_layer": "MKT-ASSESS变换层（跨源合成）",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "unit": "CNY/tonne",
+ "currency": "CNY",
+ "frequency": "Daily",
+ "caliber": {
+  "tax_caliber": "Tax-inclusive (spot assessment caliber, as published by each input source)",
+  "delivery_caliber": "Spot market caliber (no physical delivery terms)",
+  "contract_type": "Spot composite",
+  "grade_spec": "Battery-grade lithium carbonate, Li2CO3 >= 99.5%",
+  "system_scope": "n/a"
+ },
+ "source_name": "Cross-source composite (SMM / Mysteel / SunSirs)",
+ "source_tier": "商业评估（多源变换）",
+ "credibility_grade": "C",
+ "release_boundary": "Public as a transformed composite: median, dispersion and source count only; per-source values never leave the internal layer.",
+ "labels": [
+  "Cross-source composite — WattAnalysis transformation layer",
+  "Per-source values are never published; median, dispersion and source count only"
+ ],
+ "points": [
+  {
+   "period_date": "2026-11-16",
+   "period_type": "D",
+   "node": "Battery-grade lithium carbonate",
+   "spec": "Li2CO3 >=99.5%, spot",
+   "unit": "CNY/t",
+   "n_sources": 2,
+   "composite_median": 89600,
+   "spread_max_min": 100,
+   "spread_pct": 0.11,
+   "caliber_note": "Mysteel value is the late-session range midpoint (back-derived from the next day's published change; derived value); SMM value is the daily average price"
+  },
+  {
+   "period_date": "2026-11-17",
+   "period_type": "D",
+   "node": "Battery-grade lithium carbonate",
+   "spec": "Li2CO3 >=99.5%, spot",
+   "unit": "CNY/t",
+   "n_sources": 2,
+   "composite_median": 89725,
+   "spread_max_min": 1350,
+   "spread_pct": 1.5,
+   "caliber_note": "Dispersion mainly from timing caliber: SMM daily average fell 500 on the day while Mysteel late session rose 750 on after-hours futures strength (daily average vs late-session close)"
+  },
+  {
+   "period_date": "2026-11-18",
+   "period_type": "D",
+   "node": "Battery-grade lithium carbonate",
+   "spec": "Li2CO3 >=99.5%, spot",
+   "unit": "CNY/t",
+   "n_sources": 2,
+   "composite_median": 91700,
+   "spread_max_min": 200,
+   "spread_pct": 0.22,
+   "caliber_note": "SMM average is consistent with its range midpoint (89,800-93,800 -> 91,800)"
+  },
+  {
+   "period_date": "2026-11-19",
+   "period_type": "D",
+   "node": "Battery-grade lithium carbonate",
+   "spec": "Li2CO3 >=99.5%, spot",
+   "unit": "CNY/t",
+   "n_sources": 3,
+   "composite_median": 91300,
+   "spread_max_min": 850,
+   "spread_pct": 0.93,
+   "caliber_note": "SMM also has a parallel conflicting value of 91,200 via a Sina daily report (-620 basis); per discipline it is not adopted and not adjudicated, registered only in the internal input layer"
+  },
+  {
+   "period_date": "2026-11-20",
+   "period_type": "D",
+   "node": "Battery-grade lithium carbonate",
+   "spec": "Li2CO3 >=99.5%, spot",
+   "unit": "CNY/t",
+   "n_sources": 3,
+   "composite_median": 91450,
+   "spread_max_min": 50,
+   "spread_pct": 0.05,
+   "caliber_note": "Mysteel value is the early-session range midpoint (late session not yet published at collection time; substitution flagged); the three sources nearly coincide, consistent with the QC87-C survey cross-check"
+  }
+ ]
+}

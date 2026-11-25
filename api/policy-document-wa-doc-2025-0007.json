@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2025-0007",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2025-0007",
+  "doc_number_key": "MOFCOM-2025-62",
+  "doc_number_verbatim": "MOFCOM Announcement No. 62 (2025)",
+  "title": "Announcement No. 62 (2025), component announcement of the October 2025 export control package (rare-earth related technology)",
+  "issuer": "Ministry of Commerce (MOFCOM)",
+  "issuer_codes": "MOFCOM",
+  "jurisdiction": "China",
+  "level": "national",
+  "domain_tags": "materials;export-control;technology",
+  "issue_date": "2025-10",
+  "issue_date_precision": "month",
+  "effective_date": "",
+  "expiry_date": "",
+  "review_date": "2027-11-20",
+  "pol_status": "POL-SUSPENDED",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "See the note for WA-DOC-2025-0006.",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "https://www.mofcom.gov.cn/zcfb/zc/art/2025/art_b1dd1e72bc9540098b2dc09e5c02f579.html",
+  "note": "Note as for WA-DOC-2025-0006."
+ }
+}

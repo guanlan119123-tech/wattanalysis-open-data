@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2024-0103",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2024-0103",
+  "doc_number_key": "MOFCOM-MIIT-GACC-SCA-2024-51",
+  "doc_number_verbatim": "MOFCOM, MIIT, GACC and SCA Announcement No. 51 (2024)",
+  "title": "Announcement issuing the Export Control List of Dual-Use Items of the People's Republic of China",
+  "issuer": "Ministry of Commerce (MOFCOM); Ministry of Industry and Information Technology (MIIT); General Administration of Customs (GACC); State Cryptography Administration (SCA)",
+  "issuer_codes": "MOFCOM;MIIT;GACC;SCA",
+  "jurisdiction": "China",
+  "level": "national",
+  "domain_tags": "export-control;dual-use;list",
+  "issue_date": "2024-11-15",
+  "issue_date_precision": "day",
+  "effective_date": "2024-12-01",
+  "expiry_date": "",
+  "review_date": "2027-05-20",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "The unified list system consolidates roughly 700 previously controlled items (10 major industry sectors x 5 item-type codes); 11 legacy announcements were repealed on the same day, and the commercial-cryptography list content no longer applies",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "https://exportcontrol.mofcom.gov.cn/article/zcfg/gnzcfg/zcfggzqd/202411/1067.html",
+  "note": "Original text on the China Export Control website (MOFCOM)."
+ }
+}

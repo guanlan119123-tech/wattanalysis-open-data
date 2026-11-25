@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2025-0010",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2025-0010",
+  "doc_number_key": "FR-90-26786",
+  "doc_number_verbatim": "90 FR 26786",
+  "title": "Commerce AD/CVD orders: crystalline silicon photovoltaic cells from Cambodia, Malaysia, Thailand and Vietnam (Federal Register, 24 Jun 2025)",
+  "issuer": "US Department of Commerce",
+  "issuer_codes": "USDOC",
+  "jurisdiction": "US",
+  "level": "national",
+  "domain_tags": "solar;anti-dumping;countervailing",
+  "issue_date": "2025-06-24",
+  "issue_date_precision": "day",
+  "effective_date": "2025-06-24",
+  "expiry_date": "",
+  "review_date": "2027-11-20",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "https://www.govinfo.gov/content/pkg/FR-2025-06-24/pdf/2025-11588.pdf",
+  "note": ""
+ }
+}

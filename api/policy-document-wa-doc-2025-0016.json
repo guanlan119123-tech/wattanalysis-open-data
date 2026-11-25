@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2025-0016",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2025-0016",
+  "doc_number_key": "CITT-RR-2025-008",
+  "doc_number_verbatim": "CITT expiry review RR-2025-008",
+  "title": "CITT expiry review RR-2025-008: rescission of the 2015 SIMA order on photovoltaic modules and laminates from China",
+  "issuer": "Canadian International Trade Tribunal",
+  "issuer_codes": "CITT",
+  "jurisdiction": "Canada",
+  "level": "national",
+  "domain_tags": "solar;sima;rescission",
+  "issue_date": "2025",
+  "issue_date_precision": "year",
+  "effective_date": "",
+  "expiry_date": "",
+  "review_date": "2027-11-20",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "Rescinded WA-DOC-2015-0001 on 17 Sep 2026 (see status_history)",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "https://www.cbsa-asfc.gc.ca/sima-lmsi/er-rre/sml2026/sml2026-xo-eng.html",
+  "note": "The case number carries 2025 while the decision date is 17 Sep 2026; the doc year is therefore registered by the case-number year."
+ }
+}

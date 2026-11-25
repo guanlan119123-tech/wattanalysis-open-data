@@ -1,0 +1,113 @@
+{
+ "series_id": "WA-PRC-29",
+ "title": "Energy storage cell (280Ah) price — weekly cross-source composite",
+ "family": "PRC-MKT",
+ "sub_layer": "MKT-ASSESS变换层（跨源合成）",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "unit": "CNY/Wh",
+ "currency": "CNY",
+ "frequency": "Weekly",
+ "caliber": {
+  "tax_caliber": "Tax-inclusive (spot assessment caliber, as published by each input source)",
+  "delivery_caliber": "Spot market caliber (no physical delivery terms)",
+  "contract_type": "Spot composite",
+  "grade_spec": "LFP prismatic storage cell, 280Ah",
+  "system_scope": "Cell only"
+ },
+ "source_name": "Cross-source composite (SMM / InfoLink)",
+ "source_tier": "商业评估（多源变换）",
+ "credibility_grade": "C",
+ "release_boundary": "Public as a transformed composite: median, dispersion and source count only; per-source values never leave the internal layer.",
+ "labels": [
+  "Cross-source composite — WattAnalysis transformation layer",
+  "Per-source values are never published; median, dispersion and source count only"
+ ],
+ "points": [
+  {
+   "period_date": "2025-08-20",
+   "period_type": "W",
+   "node": "Energy storage cell",
+   "spec": "LFP 280Ah",
+   "unit": "CNY/Wh",
+   "n_sources": 2,
+   "composite_median": 0.2975,
+   "spread_max_min": 0.005,
+   "spread_pct": 1.68,
+   "caliber_note": "Biweekly-era alignment: SMM 2025-08-08 assessed value (via China Merchants Futures price table, citing SMM) falls in the inferred coverage window (08-07 to 08-20) of the inaugural InfoLink ESS issue; biweekly coverage windows are not stated by the source and are inferred from issue spacing (Method Supplement S1.2); the systematic SMM premium is a registered caliber difference, not corrected"
+  },
+  {
+   "period_date": "2025-09-05",
+   "period_type": "W",
+   "node": "Energy storage cell",
+   "spec": "LFP 280Ah",
+   "unit": "CNY/Wh",
+   "n_sources": 2,
+   "composite_median": 0.299,
+   "spread_max_min": 0.002,
+   "spread_pct": 0.67,
+   "caliber_note": "Biweekly-era alignment: SMM 2025-09-05 weekly value (via Huaxi Securities weekly review, citing SMM) is dated the same day as the InfoLink 09-05 issue and falls in the inferred coverage window (08-21 to 09-05); caliber difference registered, not corrected"
+  },
+  {
+   "period_date": "2026-08-26",
+   "period_type": "W",
+   "node": "Energy storage cell",
+   "spec": "LFP 280Ah",
+   "unit": "CNY/Wh",
+   "n_sources": 2,
+   "composite_median": 0.3665,
+   "spread_max_min": 0.007,
+   "spread_pct": 1.91,
+   "caliber_note": "Weekly alignment: SMM is the Friday (08-21) value of the statistical week (via Kaiyuan Securities weekly, citing SMM), against InfoLink 08-26 issue (08-20 to 08-26); caliber difference registered, not corrected"
+  },
+  {
+   "period_date": "2026-09-02",
+   "period_type": "W",
+   "node": "Energy storage cell",
+   "spec": "LFP 280Ah",
+   "unit": "CNY/Wh",
+   "n_sources": 2,
+   "composite_median": 0.3655,
+   "spread_max_min": 0.001,
+   "spread_pct": 0.27,
+   "caliber_note": "Weekly alignment: SMM is the Friday (08-28) value of the statistical week (via Kaiyuan Securities weekly, citing SMM), against InfoLink 09-02 issue (08-27 to 09-02); caliber difference registered, not corrected"
+  },
+  {
+   "period_date": "2026-10-28",
+   "period_type": "W",
+   "node": "Energy storage cell",
+   "spec": "LFP 280Ah",
+   "unit": "CNY/Wh",
+   "n_sources": 2,
+   "composite_median": 0.3625,
+   "spread_max_min": 0.015,
+   "spread_pct": 4.14,
+   "caliber_note": "Weekly alignment: SMM is the Friday (10-23) assessed price within the week, InfoLink is the weekly average for that week (10-22 to 10-28); SMM is systematically ~0.01-0.015 above InfoLink — a caliber gap (assessed transaction vs weekly average), registered and not merged or corrected"
+  },
+  {
+   "period_date": "2026-11-04",
+   "period_type": "W",
+   "node": "Energy storage cell",
+   "spec": "LFP 280Ah",
+   "unit": "CNY/Wh",
+   "n_sources": 2,
+   "composite_median": 0.3565,
+   "spread_max_min": 0.007,
+   "spread_pct": 1.96,
+   "caliber_note": "Weekly alignment: SMM 10-30 value against InfoLink 11-04 issue (10-29 to 11-04)"
+  },
+  {
+   "period_date": "2026-11-11",
+   "period_type": "W",
+   "node": "Energy storage cell",
+   "spec": "LFP 280Ah",
+   "unit": "CNY/Wh",
+   "n_sources": 2,
+   "composite_median": 0.354,
+   "spread_max_min": 0.012,
+   "spread_pct": 3.39,
+   "caliber_note": "Weekly alignment: SMM 11-06 value against InfoLink 11-11 issue (11-05 to 11-11)"
+  }
+ ]
+}

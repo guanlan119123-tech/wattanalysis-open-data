@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2025-0005",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2025-0005",
+  "doc_number_key": "MOFCOM-GACC-2025-58",
+  "doc_number_verbatim": "MOFCOM and GACC Announcement No. 58 (2025)",
+  "title": "Announcement No. 58 (2025), component announcement of the October 2025 export control package",
+  "issuer": "Ministry of Commerce (MOFCOM); General Administration of Customs (GACC)",
+  "issuer_codes": "MOFCOM;GACC",
+  "jurisdiction": "China",
+  "level": "national",
+  "domain_tags": "materials;export-control",
+  "issue_date": "2025-10",
+  "issue_date_precision": "month",
+  "effective_date": "",
+  "expiry_date": "",
+  "review_date": "2027-11-20",
+  "pol_status": "POL-SUSPENDED",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "See the note for WA-DOC-2025-0002.",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_79646f0161564975a938fe00fee158d5.html",
+  "note": "Note as for WA-DOC-2025-0002."
+ }
+}

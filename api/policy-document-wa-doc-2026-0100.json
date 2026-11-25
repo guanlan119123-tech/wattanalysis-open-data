@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2026-0100",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2026-0100",
+  "doc_number_key": "CTC-2026-2",
+  "doc_number_verbatim": "Customs Tariff Commission Announcement No. 2 (2026)",
+  "title": "Customs Tariff Commission Announcement No. 2 (2026) on adjusting additional tariff measures on certain imported goods originating in Canada",
+  "issuer": "Customs Tariff Commission of the State Council (CTC)",
+  "issuer_codes": "CTC",
+  "jurisdiction": "China",
+  "level": "national",
+  "domain_tags": "tariff;canada-directed;adjustment",
+  "issue_date": "2026-02-27",
+  "issue_date_precision": "day",
+  "effective_date": "2026-03-01",
+  "expiry_date": "2026-12-31",
+  "review_date": "",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "The adjustment object is Customs Tariff Commission Announcement No. 3 (2025) (WA-DOC-2025-0105); issued on the same day as MOFCOM Announcement No. 13 (2026) (WA-DOC-2026-0101), each the basis of the other",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2026/art_25106eaf2fb444ba879890b1ba9f9625.html",
+  "note": "MOF original text republished on the MOFCOM website; full text and annex list checked."
+ }
+}

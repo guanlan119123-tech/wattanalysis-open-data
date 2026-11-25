@@ -1,0 +1,33 @@
+{
+ "entry_type": "document",
+ "id": "WA-DOC-2025-0107",
+ "access": "public",
+ "licence": "Single-series data: free to read and cite with attribution to WattAnalysis. Bulk download or programmatic redistribution requires a licence (API key).",
+ "updated": "2026-11-22",
+ "source_tier": "T1",
+ "credibility": "A",
+ "record": {
+  "doc_id": "WA-DOC-2025-0107",
+  "doc_number_key": "NDRC-NEA-2025-411",
+  "doc_number_verbatim": "Fagai Nengyuan Gui [2025] No. 411",
+  "title": "Basic Rules for the Power Ancillary Services Market",
+  "issuer": "National Development and Reform Commission (NDRC); National Energy Administration (NEA)",
+  "issuer_codes": "NDRC;NEA",
+  "jurisdiction": "China",
+  "level": "national",
+  "domain_tags": "grid;ancillary-services;power-market",
+  "issue_date": "2025-04-03",
+  "issue_date_precision": "day",
+  "effective_date": "",
+  "expiry_date": "",
+  "review_date": "2027-11-20",
+  "pol_status": "POL-IN-FORCE",
+  "supersedes": "",
+  "superseded_by": "",
+  "relation_note": "The ancillary-services definition covers peak shaving, frequency regulation, reserves and ramping; principle: 'whoever provides, profits; whoever benefits, bears'; market participants include new types of participant such as storage enterprises and virtual power plants",
+  "source_tier": "T1",
+  "credibility": "A",
+  "source_url": "https://www.ndrc.gov.cn/xxgk/zcfb/ghxwj/202504/t20250429_1397483_ext.html",
+  "note": "NDRC original text (also available in a government-information-disclosure PDF edition); the document sets no separate effective date, so effective_date is left blank."
+ }
+}
