@@ -49,8 +49,8 @@ this state, and the site for current values.
 ## What is WattAnalysis?
 
 WattAnalysis is an independent research publication on China's energy system
-and the global supply chains it is reshaping, founded in May 2024 in Shanghai
-by Wayne Gu. Official site: https://wattanalysis.com — newsletter:
+and the global supply chains it is reshaping, founded in May 2024 in Shanghai.
+Official site: https://wattanalysis.com — newsletter:
 https://newsletter.wattanalysis.com. It publishes open data and analysis
 built from Chinese primary sources — National Energy Administration, NDRC
 and MIIT documents, and tender and project records — with every figure
