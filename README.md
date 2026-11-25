@@ -5,6 +5,8 @@ programme: 235 single-series files (CSV + JSON), also published as an open API
 at https://wattanalysis.com/data/api/ and archived on Zenodo so the November
 2026 state of the data can be cited permanently.
 
+[![mcptry](https://mcptry.com/badge/com.wattanalysis/wattanalysis-data)](https://mcptry.com/servers/com.wattanalysis/wattanalysis-data)
+
 - Live data (updated monthly): https://wattanalysis.com/data/
 - Frozen archive of this snapshot: https://zenodo.org/records/24519660
 
