@@ -9,6 +9,11 @@ at https://wattanalysis.com/data/api/ and archived on Zenodo so the November
 
 - Live data (updated monthly): https://wattanalysis.com/data/
 - Frozen archive of this snapshot: https://zenodo.org/records/24519660
+- **Subscribe free:** the WattAnalysis newsletter —
+  https://newsletter.wattanalysis.com — new subscribers receive the complete
+  China Energy Storage Projects database (220 tracked projects, Excel) by
+  email as a subscriber gift. The first 100 subscribers are the Founding
+  cohort: free forever.
 
 ## What is inside
 
